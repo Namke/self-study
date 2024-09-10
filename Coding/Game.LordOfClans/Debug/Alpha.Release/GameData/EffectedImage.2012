@@ -1,0 +1,21 @@
+#Effect images setting file
+#A part of warcraft new generation project
+#Copyrights 2002-2003 K-Outertainment
+#
+#
+#
+#  If you can see this file then your version is pre alpha, you can modify
+#any info about game (if you can) but I don't sure that don't generated
+#an error in game playing and trouble with your system.
+#                                CrazyBabe
+#
+Effect:HeroSign0                 :FileName:Images\EffectImages\HeroSign00.png
+Effect:HeroSign1                 :FileName:Images\EffectImages\HeroSign01.png
+Effect:HeroSign2                 :FileName:Images\EffectImages\HeroSign02.png
+Effect:HeroSign3                 :FileName:Images\EffectImages\HeroSign03.png
+Effect:HeroSign4                 :FileName:Images\EffectImages\HeroSign04.png
+Effect:HeroSign5                 :FileName:Images\EffectImages\HeroSign05.png
+Effect:HeroSign6                 :FileName:Images\EffectImages\HeroSign06.png
+Effect:HeroSign7                 :FileName:Images\EffectImages\HeroSign07.png
+Effect:HeroSign8                 :FileName:Images\EffectImages\HeroSign08.png
+Effect:HeroSign9                 :FileName:Images\EffectImages\HeroSign09.png

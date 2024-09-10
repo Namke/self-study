@@ -1,0 +1,13 @@
+Program Demotranstion;
+
+Var OldGameTick : Integer;
+
+{
+  Repeat 
+    Message('This pre alpha of RPS game developed by CrazyBabe');
+    Message('Thanks for testing and any idea for my game, contact me at namke1101@yahoo.com ! (Maybe with YIM)');
+    OldGameTick:=GameCount;
+    Repeat
+    Until GameCount>OldGameTick+2000;
+  Until False;
+}.

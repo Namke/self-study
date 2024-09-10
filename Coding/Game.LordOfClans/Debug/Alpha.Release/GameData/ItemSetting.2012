@@ -1,0 +1,19 @@
+#Item setting file
+#A part of warcraft new generation project
+#Copyrights 2002-2003 K-Outertainment
+#
+#
+#
+#
+#  If you can see this file then your version is pre alpha, you can modify
+#any info about game (if you can) but I don't sure that don't generated
+#an error in game playing and trouble with your system.
+#                                CrazyBabe
+#
+Item setting : Weapon hand
+  Name       : Hand
+  Damage     : 100
+  Min range  : 0
+  Max range  : 0
+  Can target : Land : Building : Underground
+End setting

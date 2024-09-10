@@ -1,0 +1,24 @@
+#Skills icon setting file
+#A part of warcraft new generation project
+#Copyrights 2002-2003 K-Outertainment
+#
+#
+#
+#
+#  If you can see this file then your version is pre alpha, you can modify
+#any info about game (if you can) but I don't sure that don't generated
+#an error in game playing and trouble with your system.
+#                                CrazyBabe
+#
+Skill:Move          :FileName:Images\Icons\CommandButtons\CBMove.Png
+Skill:Stop          :FileName:Images\Icons\CommandButtons\CBStop.Png
+Skill:Patrol        :FileName:Images\Icons\CommandButtons\CBPatrol.Png
+Skill:Attack        :FileName:Images\Icons\CommandButtons\CBAttack.Png
+Skill:AttackGround  :FileName:Images\Icons\CommandButtons\CBAttackGround.Png
+Skill:Harvest       :FileName:Images\Icons\CommandButtons\CBHarvest.Png
+Skill:Cancel        :FileName:Images\Icons\CommandButtons\CBCancel.Png
+Skill:CancelBuilding:FileName:Images\Icons\CommandButtons\CBCancel.Png
+Skill:BuildHuman    :FileName:Images\Icons\CommandButtons\CBBuildHuman.Png
+Skill:BuildOrc      :FileName:Images\Icons\CommandButtons\CBBuildOrc.Png
+Skill:Unload        :FileName:Images\Icons\CommandButtons\CBUnLoad.Png
+Skill:HoldPosition  :FileName:Images\Icons\CommandButtons\CBHoldPosition.Png

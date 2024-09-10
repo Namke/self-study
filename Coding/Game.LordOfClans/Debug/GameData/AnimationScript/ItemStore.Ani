@@ -1,0 +1,138 @@
+[Image info]
+8 0 0 32 32 
+[Transparent color RGB]
+0 0 0
+[Using List]
+Images\Units\ItemStore\ItemStore0.Png
+Images\Units\ItemStore\ItemStore1.Png
+Images\Units\ItemStore\ItemStore2.Png
+Images\Units\ItemStore\ItemStore3.Png
+Images\Units\ItemStore\ItemStore4.Png
+Images\Units\ItemStore\ItemStore5.Png
+Images\Units\ItemStore\ItemStore6.Png
+Images\Units\ItemStore\ItemStore7.Png
+[[Stand script]]
+[Heading 1]
+1
+0 200 0 0
+[Heading 2]
+1
+1 200 0 0
+[Heading 3]
+1
+2 200 0 0
+[Heading 4]
+1
+3 200 0 0
+[Heading 5]
+1
+4 200 0 0
+[Heading 6]
+1
+5 200 0 0
+[Heading 7]
+1
+6 200 0 0
+[Heading 8]
+1
+7 200 0 0
+[[Wasted script]]
+[Heading 1]
+1
+0 200 0 0
+[Heading 2]
+1
+1 200 0 0
+[Heading 3]
+1
+2 200 0 0
+[Heading 4]
+1
+3 200 0 0
+[Heading 5]
+1
+4 200 0 0
+[Heading 6]
+1
+5 200 0 0
+[Heading 7]
+1
+6 200 0 0
+[Heading 8]
+1
+7 200 0 0
+[[Run script]]
+[Heading 1]
+1
+0 200 0 0
+[Heading 2]
+1
+1 200 0 0
+[Heading 3]
+1
+2 200 0 0
+[Heading 4]
+1
+3 200 0 0
+[Heading 5]
+1
+4 200 0 0
+[Heading 6]
+1
+5 200 0 0
+[Heading 7]
+1
+6 200 0 0
+[Heading 8]
+1
+7 200 0 0
+[[Attack script]]
+[Heading 1]
+1
+0 200 0 0
+[Heading 2]
+1
+1 200 0 0
+[Heading 3]
+1
+2 200 0 0
+[Heading 4]
+1
+3 200 0 0
+[Heading 5]
+1
+4 200 0 0
+[Heading 6]
+1
+5 200 0 0
+[Heading 7]
+1
+6 200 0 0
+[Heading 8]
+1
+7 200 0 0
+[[Dead script]]
+[Heading 1]
+1
+0 200 0 0
+[Heading 2]
+1
+1 200 0 0
+[Heading 3]
+1
+2 200 0 0
+[Heading 4]
+1
+3 200 0 0
+[Heading 5]
+1
+4 200 0 0
+[Heading 6]
+1
+5 200 0 0
+[Heading 7]
+1
+6 200 0 0
+[Heading 8]
+1
+7 200 0 0

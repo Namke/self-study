@@ -1,0 +1,1652 @@
+#Unit setting file
+#A part of warcraft new generation project
+#Copyrights 2002-2003 K-Outertainment
+#
+#This unit allow all setting for unit in all clans but except unit animation (also unit speed)
+#Unit animation in AnimationSetting.2012
+#
+#  Setting for unit:UnitTyper:UnitClan
+#       ....
+#  End setting
+#
+#
+#
+#  If you can see this file then your version is pre alpha, you can modify
+#any info about game (if you can) but I don't sure that don't generated
+#an error in game playing and trouble with your system.
+#                                CrazyBabe
+#
+Setting for unit : Item store : Clan1
+  Name                             : Item store
+  Hit Point                        : 1
+  See range                        : 0
+  Size                             : 0 : 0
+  Item slot avail                  : Item 1 : Item 2 : Item 3 : Item 4 : Item 5 : Item 6 : Item 7 : Item 8 : Item 9
+  Unit map                         : Fill
+  Attribute                        : Building : Invulnerable
+  Draw level                       : 1
+  Force                            : Freedom
+End setting
+
+###
+
+Setting for unit : Peasant : Clan1
+  Name                             : Peasant
+  Hit Point                        : 30
+  Skill                            : Move : Hold Position : Attack : Patrol : Stop : Harvest : Build Human
+  Hotkey                           : P
+  See range                        : 4
+  Size                             : 0 : 0
+  Unit map                         : Fill
+  Item slot avail                  : All
+  Base item                        : Weapon : Weapon peon axe
+  Base damage                      : 1
+  Food used                        : 1
+  Cost                             : Gold : 400
+  Time cost                        : 45
+  Can build                        : Town Hall : Human Farm : Human Scout Tower : Elven Lumber Mill : Human BlackSmith : Human Barrack : Stables : Church : Mage Tower : Gryphon Aviary : Gnomish Inventor
+  Attribute                        : Land unit : Unit can transported
+  Command right mouse no target    : Move
+  Command right mouse target ally  : Move
+  Command right mouse target anemy : Attack
+  Point                            : 10
+  Draw level                       : 2
+  Force                            : Worker
+End setting
+
+###
+
+Setting for unit : Peasant with gold : Clan1
+  Like                             : Peasant
+End setting
+
+###
+
+Setting for unit : Peon : Clan1
+  Name                             : Peon
+  Hit Point                        : 30
+  Skill                            : Move : Hold Position : Attack : Patrol : Stop : Harvest : Build Orc
+  Hotkey                           : P
+  See range                        : 4
+  Size                             : 0 : 0
+  Unit map                         : Fill
+  Item slot avail                  : All
+  Base item                        : Weapon : Weapon peon axe
+  Base damage                      : 1
+  Food used                        : 1
+  Cost                             : Gold : 400
+  Time cost                        : 45
+  Can build                        : Great Hall : Orc Farm : Orc Watch Tower : Troll Lumber Mill : Orc BlackSmith : Orc Barrack : Ogre Mound : Altar of storm : Temple of the damned : Dragon roost : Goblin Alchemist
+  Attribute                        : Land unit : Unit can transported
+  Command right mouse no target    : Move
+  Command right mouse target ally  : Move
+  Command right mouse target anemy : Attack
+  Point                            : 10
+  Draw level                       : 2
+  Force                            : Worker
+End setting
+
+###
+
+Setting for unit : Peon with gold : Clan1
+  Like                             : Peon
+End setting
+
+###
+
+Setting for unit : Footman : Clan1
+  Name                             : Footman
+  Hit Point                        : 60
+  Skill                            : Move : Hold Position : Attack : Patrol : Stop
+  Hotkey                           : F
+  See range                        : 4
+  Size                             : 0 : 0
+  Unit map                         : Fill
+  Item slot avail                  : All
+  Base item                        : Weapon : Weapon blade
+  Base damage                      : 6
+  Food used                        : 1
+  Cost                             : Gold : 600
+  Time cost                        : 60
+  Attribute                        : Land unit : Unit can transported
+  Command right mouse no target    : Move
+  Command right mouse target ally  : Move
+  Command right mouse target anemy : Attack
+  Point                            : 10
+  Draw level                       : 2
+  Force                            : Attacker
+End setting
+
+###
+
+Setting for unit : Grunt : Clan1
+  Name                             : Grunt
+  Hit Point                        : 60
+  Skill                            : Move : Hold Position : Attack : Patrol : Stop
+  Hotkey                           : G
+  See range                        : 4
+  Size                             : 0 : 0
+  Unit map                         : Fill
+  Item slot avail                  : All
+  Base item                        : Weapon : Weapon battle axe
+  Base damage                      : 1
+  Food used                        : 1
+  Cost                             : Gold : 100
+  Time cost                        : 60
+  Attribute                        : Land unit : Unit can transported
+  Command right mouse no target    : Move
+  Command right mouse target ally  : Move
+  Command right mouse target anemy : Attack
+  Point                            : 10
+  Draw level                       : 2
+  Force                            : Attacker
+End setting
+
+###
+
+Setting for unit : Archer : Clan1
+  Name                             : Archer
+  Hit Point                        : 40
+  Skill                            : Move : Hold Position : Attack : Patrol : Stop
+  Hotkey                           : A
+  See range                        : 4
+  Size                             : 0 : 0
+  Unit map                         : Fill
+  Item slot avail                  : All
+  Base item                        : Weapon : Weapon bow
+  Base damage                      : 3
+  Food used                        : 1
+  Cost                             : Gold : 500
+  Time cost                        : 70
+  Attribute                        : Land unit : Unit can transported
+  Command right mouse no target    : Move
+  Command right mouse target ally  : Move
+  Command right mouse target anemy : Attack
+  Point                            : 10
+  Draw level                       : 2
+  Force                            : Attacker
+End setting
+
+###
+
+Setting for unit : Axethrower : Clan1
+  Name                             : Axethrower
+  Hit Point                        : 40
+  Skill                            : Move : Hold Position : Attack : Patrol : Stop
+  Hotkey                           : A
+  See range                        : 4
+  Size                             : 0 : 0
+  Unit map                         : Fill
+  Item slot avail                  : All
+  Base item                        : Weapon : Weapon bes axe
+  Base damage                      : 1
+  Food used                        : 1
+  Cost                             : Gold : 500
+  Time cost                        : 70
+  Attribute                        : Land unit : Unit can transported
+  Command right mouse no target    : Move
+  Command right mouse target ally  : Move
+  Command right mouse target anemy : Attack
+  Draw level                       : 2
+  Point                            : 10
+  Force                            : Attacker
+End setting
+
+###
+
+Setting for unit : Ranger : Clan1
+  Name                             : Ranger
+  Hit Point                        : 50
+  Skill                            : Move : Hold Position : Attack : Patrol : Stop
+  Hotkey                           : R
+  See range                        : 4
+  Size                             : 0 : 0
+  Unit map                         : Fill
+  Item slot avail                  : All
+  Base item                        : Weapon : Weapon long bow
+  Base damage                      : 1
+  Food used                        : 1
+  Cost                             : Gold : 500
+  Time cost                        : 70
+  Attribute                        : Land unit : Unit can transported
+  Command right mouse no target    : Move
+  Command right mouse target ally  : Move
+  Command right mouse target anemy : Attack
+  Draw level                       : 2
+  Point                            : 10
+  Force                            : Attacker
+End setting
+
+###
+
+Setting for unit : Berserker : Clan1
+  Name                             : Berserker
+  Hit Point                        : 50
+  Skill                            : Move : Hold Position : Attack : Patrol : Stop
+  Hotkey                           : B
+  See range                        : 4
+  Size                             : 0 : 0
+  Unit map                         : Fill
+  Item slot avail                  : All
+  Base item                        : Weapon : Weapon long bes axe
+  Base damage                      : 1
+  Food used                        : 1
+  Cost                             : Gold : 500
+  Time cost                        : 70
+  Attribute                        : Land unit : Unit can transported
+  Command right mouse no target    : Move
+  Command right mouse target ally  : Move
+  Command right mouse target anemy : Attack
+  Point                            : 10
+  Draw level                       : 2
+  Force                            : Attacker
+End setting
+
+###
+
+Setting for unit : Knight : Clan1
+  Name                             : Knight
+  Hit Point                        : 90
+  Skill                            : Move : Hold Position : Attack : Patrol : Stop
+  Hotkey                           : K
+  See range                        : 4
+  Size                             : 0 : 0
+  Unit map                         : Fill
+  Item slot avail                  : All
+  Base item                        : Weapon : Weapon heavy spear
+  Base damage                      : 8
+  Food used                        : 1
+  Cost                             : Gold : 800
+  Time cost                        : 90
+  Attribute                        : Land unit : Unit can transported
+  Command right mouse no target    : Move
+  Command right mouse target ally  : Move
+  Command right mouse target anemy : Attack
+  Draw level                       : 2
+  Point                            : 10
+  Force                            : Attacker
+End setting
+
+###
+
+Setting for unit : Ogre : Clan1
+  Name                             : Ogre
+  Hit Point                        : 90
+  Skill                            : Move : Hold Position : Attack : Patrol : Stop
+  Hotkey                           : O
+  See range                        : 4
+  Size                             : 0 : 0
+  Unit map                         : Fill
+  Item slot avail                  : All
+  Base item                        : Weapon : Weapon glove
+  Base damage                      : 1
+  Food used                        : 1
+  Cost                             : Gold : 800
+  Time cost                        : 90
+  Attribute                        : Land unit : Unit can transported
+  Command right mouse no target    : Move
+  Command right mouse target ally  : Move
+  Command right mouse target anemy : Attack
+  Draw level                       : 2
+  Point                            : 10
+  Force                            : Attacker
+End setting
+
+###
+
+Setting for unit : Paladin : Clan1
+  Name                             : Paladin
+  Hit Point                        : 120
+  Skill                            : Move : Hold Position : Attack : Patrol : Stop
+  Hotkey                           : K
+  See range                        : 4
+  Size                             : 0 : 0
+  Unit map                         : Fill
+  Item slot avail                  : All
+  Base item                        : Weapon : Weapon magic heavy spear
+  Base damage                      : 1
+  Food used                        : 1
+  Cost                             : Gold : 800
+  Time cost                        : 90
+  Attribute                        : Land unit : Unit can transported
+  Max mana                         : 256
+  Mana grow                        : 1
+  Can cast spell                   : Healing
+  Command right mouse no target    : Move
+  Command right mouse target ally  : Move
+  Command right mouse target anemy : Attack
+  Draw level                       : 2
+  Point                            : 10
+  Force                            : Attacker
+End setting
+
+###
+
+Setting for unit : Ogre Mage : Clan1
+  Name                             : Ogre Mage
+  Hit Point                        : 120
+  Skill                            : Move : Hold Position : Attack : Patrol : Stop
+  Hotkey                           : O
+  See range                        : 4
+  Size                             : 0 : 0
+  Unit map                         : Fill
+  Item slot avail                  : All
+  Base item                        : Weapon : Weapon magic glove
+  Base damage                      : 1
+  Food used                        : 1
+  Cost                             : Gold : 800
+  Time cost                        : 90
+  Attribute                        : Land unit : Unit can transported
+  Max mana                         : 256
+  Mana grow                        : 1
+  Can cast spell                   : BloodLust
+  Command right mouse no target    : Move
+  Command right mouse target ally  : Move
+  Command right mouse target anemy : Attack
+  Draw level                       : 2
+  Point                            : 10
+  Force                            : Attacker
+End setting
+
+###
+
+Setting for unit : Mage : Clan1
+  Name                             : Mage
+  Hit Point                        : 60
+  Skill                            : Move : Hold Position : Attack : Patrol : Stop
+  Hotkey                           : M
+  See range                        : 9
+  Size                             : 0 : 0
+  Unit map                         : Fill
+  Item slot avail                  : All
+  Base item                        : Weapon : Weapon magic staff
+  Base damage                      : 1
+  Food used                        : 1
+  Cost                             : Gold : 1200
+  Time cost                        : 120
+  Attribute                        : Land unit : Unit can transported
+  Max mana                         : 256
+  Mana grow                        : 2
+  Hitpoint grow                    : 1
+  Can cast spell                   : Lightning : Blizzard : Invisibility : FireBall
+  Command right mouse no target    : Move
+  Command right mouse target ally  : Move
+  Command right mouse target anemy : Attack
+  Draw level                       : 2
+  Point                            : 10
+  Force                            : Attacker
+End setting
+
+###
+
+Setting for unit : DeathKnight : Clan1
+  Name                             : DeathKnight
+  Hit Point                        : 60
+  Skill                            : Move : Hold Position : Attack : Patrol : Stop
+  Hotkey                           : D
+  See range                        : 4
+  Size                             : 0 : 0
+  Unit map                         : Fill
+  Item slot avail                  : All
+  Base item                        : Weapon : Weapon death magic staff : Armor : Armor 1
+  Base damage                      : 1
+  Food used                        : 1
+  Cost                             : Gold : 1200
+  Time cost                        : 120
+  Attribute                        : Land unit : Unit can transported
+  Max mana                         : 256
+  Mana grow                        : 10
+  Hit point grow                   : 2
+  Can cast spell                   : Decay : Haste : Undead
+  Command right mouse no target    : Move
+  Command right mouse target ally  : Move
+  Command right mouse target anemy : Attack
+  Draw level                       : 2
+  Point                            : 10
+  Force                            : Attacker
+End setting
+
+###
+
+Setting for unit : Ballista : Clan1
+  Name                             : Ballista
+  Hit Point                        : 110
+  Skill                            : Move : Hold Position : Attack : Patrol : Stop
+  Hotkey                           : B
+  See range                        : 9
+  Size                             : 0 : 0
+  Unit map                         : Fill
+  Item slot avail                  : Weapon
+  Base item                        : Weapon : Weapon ballista bolt
+  Base damage                      : 80
+  Food used                        : 1
+  Cost                             : Gold : 900
+  Time cost                        : 250
+  Attribute                        : Land unit : Mechanic unit : Unit can transported
+  Command right mouse no target    : Move
+  Command right mouse target ally  : Move
+  Command right mouse target anemy : Attack
+  Draw level                       : 2
+  Point                            : 10
+  Force                            : Attacker
+End setting
+
+###
+
+Setting for unit : Catapul : Clan1
+  Name                             : Catapul
+  Hit Point                        : 110
+  Skill                            : Move : Hold Position : Attack : Patrol : Stop
+  Hotkey                           : C
+  See range                        : 9
+  Size                             : 0 : 0
+  Unit map                         : Fill
+  Item slot avail                  : Weapon
+  Base item                        : Weapon : Weapon catapul rock
+  Base damage                      : 1000
+  Food used                        : 1
+  Cost                             : Gold : 900
+  Time cost                        : 250
+  Attribute                        : Land unit : Mechanic unit : Unit can transported
+  Command right mouse no target    : Move
+  Command right mouse target ally  : Move
+  Command right mouse target anemy : Attack
+  Draw level                       : 2
+  Point                            : 10
+  Force                            : Attacker
+End setting
+
+###
+
+Setting for unit : Dwarves : Clan1
+  Name                             : Dwarves
+  Hit Point                        : 40
+  Skill                            : Move : Hold Position : Attack : Patrol : Stop
+  Hotkey                           : D
+  See range                        : 4
+  Size                             : 0 : 0
+  Unit map                         : Fill
+  Item slot avail                  : Weapon
+  Base item                        : Weapon : Weapon blade
+  Base damage                      : 4
+  Food used                        : 1
+  Cost                             : Gold : 700
+  Time cost                        : 200
+  Attribute                        : Land unit : Unit can transported
+  Command right mouse no target    : Move
+  Command right mouse target ally  : Move
+  Command right mouse target anemy : Attack
+  Draw level                       : 2
+  Point                            : 10
+  Force                            : Attacker
+End setting
+
+###
+
+Setting for unit : Goblin : Clan1
+  Name                             : Goblin
+  Hit Point                        : 40
+  Skill                            : Move : Hold Position : Attack : Patrol : Stop
+  Hotkey                           : G
+  See range                        : 4
+  Size                             : 0 : 0
+  Unit map                         : Fill
+  Item slot avail                  : Weapon
+  Base item                        : Weapon : Weapon blade
+  Base damage                      : 1000
+  Food used                        : 1
+  Cost                             : Gold : 700
+  Time cost                        : 200
+  Attribute                        : Land unit : Unit can transported
+  Command right mouse no target    : Move
+  Command right mouse target ally  : Move
+  Command right mouse target anemy : Attack
+  Draw level                       : 2
+  Point                            : 10
+  Force                            : Attacker
+End setting
+
+###
+
+Setting for unit : Flying Machine : Clan1
+  Name                             : Flying machine
+  Hit Point                        : 150
+  Skill                            : Move : Hold Position : Attack : Patrol : Stop
+  Hotkey                           : F
+  See range                        : 4
+  Size                             : 1 : 1
+  Unit map                         : Fill
+  Item slot avail                  : Weapon
+  Base damage                      : 0
+  Food used                        : 1
+  Cost                             : Gold : 500
+  Time cost                        : 65
+  Attribute                        : Air unit : Unit has shadow : Unit change shift : Unit is transport
+  Command right mouse no target    : Move
+  Command right mouse target ally  : Move
+  Command right mouse target anemy : Attack
+  Draw level                       : 3
+  Point                            : 10
+  Force                            : Finding
+End setting
+
+###
+
+Setting for unit : Zeppelin : Clan1
+  Name                             : Zeppelin
+  Hit Point                        : 150
+  Skill                            : Move : Hold Position : Attack : Patrol : Stop
+  Hotkey                           : Z
+  See range                        : 4
+  Size                             : 1 : 1
+  Unit map                         : Fill
+  Item slot avail                  : Weapon
+  Base damage                      : 1000
+  Food used                        : 1
+  Cost                             : Gold : 500
+  Time cost                        : 65
+  Attribute                        : Air unit : Unit has shadow : Unit change shift : Unit is transport
+  Command right mouse no target    : Move
+  Command right mouse target ally  : Move
+  Command right mouse target anemy : Attack
+  Draw level                       : 3
+  Point                            : 10
+  Force                            : Finding
+End setting
+
+###
+
+Setting for unit : Carrier : Clan1
+  Name                             : Carrier
+  Hit Point                        : 300
+  Skill                            : Move : Hold Position : Attack : Patrol : Stop
+  Hotkey                           : G
+  See range                        : 4
+  Size                             : 2 : 2
+  Unit map                         : Fill
+  Item slot avail                  : Weapon
+  Base damage                      : 10
+  Food used                        : 1
+  Cost                             : Gold : 1000
+  Time cost                        : 200
+  Attribute                        : Air unit : Unit has shadow : Unit change shift : Unit is transport
+  Command right mouse no target    : Move
+  Command right mouse target ally  : Move
+  Command right mouse target anemy : Attack
+  Draw level                       : 3
+  Point                            : 10
+  Force                            : Finding
+End setting
+
+###
+
+Setting for unit : Arbiter : Clan1
+  Name                             : Arbiter
+  Hit Point                        : 333
+  Skill                            : Move : Hold Position : Attack : Patrol : Stop
+  Hotkey                           : G
+  See range                        : 4
+  Size                             : 2 : 2
+  Unit map                         : Fill
+  Item slot avail                  : Weapon
+  Base damage                      : 10
+  Food used                        : 1
+  Cost                             : Gold : 100
+  Time cost                        : 20
+  Attribute                        : Air unit : Unit has shadow : Unit change shift : Unit is transport
+  Command right mouse no target    : Move
+  Command right mouse target ally  : Move
+  Command right mouse target anemy : Attack
+  Draw level                       : 3
+  Point                            : 10
+  Force                            : Finding
+End setting
+
+###
+
+Setting for unit : Intercept : Clan1
+  Name                             : Intercept
+  Hit Point                        : 333
+  Skill                            : Move : Hold Position : Attack : Patrol : Stop
+  Hotkey                           : G
+  See range                        : 4
+  Size                             : 0 : 0
+  Unit map                         : Fill
+  Item slot avail                  : Weapon
+  Base damage                      : 10
+  Food used                        : 1
+  Cost                             : Gold : 100
+  Time cost                        : 20
+  Attribute                        : Air unit : Unit has shadow : Unit change shift : Unit true sight
+  Command right mouse no target    : Move
+  Command right mouse target ally  : Move
+  Command right mouse target anemy : Attack
+  Draw level                       : 3
+  Point                            : 10
+  Force                            : Finding
+End setting
+
+###
+
+Setting for unit : Gundam BattleShip One : Clan1
+  Name                             : Gundam BattleShip
+  Hit Point                        : 333
+  Skill                            : Move : Hold Position : Attack : Patrol : Stop
+  Hotkey                           : G
+  See range                        : 4
+  Size                             : 3 : 3
+  Unit map                         : Fill
+  Item slot avail                  : Weapon
+  Base damage                      : 10
+  Food used                        : 1
+  Cost                             : Gold : 100
+  Time cost                        : 20
+  Attribute                        : Air unit : Unit has shadow : Unit change shift : Unit true sight
+  Command right mouse no target    : Move
+  Command right mouse target ally  : Move
+  Command right mouse target anemy : Attack
+  Draw level                       : 3
+  Point                            : 10
+  Force                            : Finding
+End setting
+
+###
+
+Setting for unit : Gundam BattleShip Two : Clan1
+  Name                             : Gundam BattleShip
+  Hit Point                        : 333
+  Skill                            : Move : Hold Position : Attack : Patrol : Stop
+  Hotkey                           : G
+  See range                        : 4
+  Size                             : 3 : 3
+  Unit map                         : Fill
+  Item slot avail                  : Weapon
+  Base damage                      : 10
+  Food used                        : 1
+  Cost                             : Gold : 100
+  Time cost                        : 20
+  Attribute                        : Air unit : Unit has shadow : Unit change shift : Unit true sight
+  Command right mouse no target    : Move
+  Command right mouse target ally  : Move
+  Command right mouse target anemy : Attack
+  Draw level                       : 3
+  Point                            : 10
+  Force                            : Finding
+End setting
+
+###
+
+Setting for unit : Gundam BattleShip Three : Clan1
+  Name                             : Gundam BattleShip
+  Hit Point                        : 333
+  Skill                            : Move : Hold Position : Attack : Patrol : Stop
+  Hotkey                           : G
+  See range                        : 4
+  Size                             : 3 : 3
+  Unit map                         : Fill
+  Item slot avail                  : Weapon
+  Base damage                      : 10
+  Food used                        : 1
+  Cost                             : Gold : 100
+  Time cost                        : 20
+  Attribute                        : Air unit : Unit has shadow : Unit change shift : Unit true sight
+  Command right mouse no target    : Move
+  Command right mouse target ally  : Move
+  Command right mouse target anemy : Attack
+  Draw level                       : 3
+  Point                            : 10
+  Force                            : Finding
+End setting
+
+###
+
+Setting for unit : Dragon : Clan1
+  Name                             : Dragon
+  Hit Point                        : 333
+  Skill                            : Move : Hold Position : Attack : Patrol : Stop
+  Hotkey                           : G
+  See range                        : 4
+  Size                             : 1 : 1
+  Unit map                         : Fill
+  Item slot avail                  : Weapon
+  Base item                        : Weapon : Weapon dragon breath
+  Base damage                      : 1000
+  Food used                        : 1
+  Cost                             : Gold : 100
+  Time cost                        : 20
+  Attribute                        : Air unit : Unit has shadow
+  Command right mouse no target    : Move
+  Command right mouse target ally  : Move
+  Command right mouse target anemy : Attack
+  Draw level                       : 3
+  Point                            : 10
+  Force                            : Attacker
+End setting
+
+###
+
+Setting for unit : DeathWing : Clan1
+  Name                             : DeathWing
+  Hit Point                        : 333
+  Skill                            : Move : Hold Position : Attack : Patrol : Stop
+  Hotkey                           : G
+  See range                        : 4
+  Size                             : 1 : 1
+  Unit map                         : Fill
+  Item slot avail                  : Weapon
+  Base item                        : Weapon : Weapon dragon breath
+  Base damage                      : 1000
+  Food used                        : 1
+  Cost                             : Gold : 100
+  Time cost                        : 20
+  Attribute                        : Air unit : Unit has shadow
+  Command right mouse no target    : Move
+  Command right mouse target ally  : Move
+  Command right mouse target anemy : Attack
+  Draw level                       : 3
+  Point                            : 10
+  Force                            : Attacker
+End setting
+
+###
+
+Setting for unit : Dragon ride : Clan1
+  Name                             : Dragon ride
+  Hit Point                        : 333
+  Skill                            : Move : Hold Position : Attack : Patrol : Stop
+  Hotkey                           : G
+  See range                        : 4
+  Size                             : 1 : 1
+  Unit map                         : Fill
+  Item slot avail                  : Weapon
+  Base item                        : Weapon : Weapon dragon breath
+  Base damage                      : 1000
+  Food used                        : 1
+  Cost                             : Gold : 100
+  Time cost                        : 20
+  Attribute                        : Air unit : Unit has shadow
+  Command right mouse no target    : Move
+  Command right mouse target ally  : Move
+  Command right mouse target anemy : Attack
+  Draw level                       : 3
+  Point                            : 10
+  Force                            : Attacker
+End setting
+
+###
+
+Setting for unit : Dragon mage : Clan1
+  Name                             : Dragon Mage
+  Hit Point                        : 333
+  Skill                            : Move : Hold Position : Attack : Patrol : Stop
+  Hotkey                           : G
+  See range                        : 4
+  Size                             : 1 : 1
+  Unit map                         : Fill
+  Item slot avail                  : Weapon
+  Base item                        : Weapon : Weapon dragon breath
+  Base damage                      : 1000
+  Food used                        : 1
+  Cost                             : Gold : 100
+  Time cost                        : 20
+  Attribute                        : Air unit : Unit has shadow
+  Command right mouse no target    : Move
+  Command right mouse target ally  : Move
+  Command right mouse target anemy : Attack
+  Draw level                       : 3
+  Point                            : 10
+  Force                            : Attacker
+End setting
+
+###
+
+Setting for unit : Ogre Magi : Clan1
+  Name                             : Ogre Magi
+  Hit Point                        : 333
+  Skill                            : Move : Hold Position : Attack : Patrol : Stop
+  Hotkey                           : G
+  See range                        : 4
+  Size                             : 0 : 0
+  Unit map                         : Fill
+  Item slot avail                  : All
+  Base item                        : Weapon : Weapon glove
+  Base damage                      : 1
+  Food used                        : 1
+  Cost                             : Gold : 100
+  Time cost                        : 20
+  Attribute                        : Land unit : Unit can transported
+  Command right mouse no target    : Move
+  Command right mouse target ally  : Move
+  Command right mouse target anemy : Attack
+  Draw level                       : 2
+  Point                            : 10
+  Force                            : Attacker
+End setting
+
+###
+
+Setting for unit : Super Daemon : Clan1
+  Name                             : Super Daemon
+  Hit Point                        : 1000
+  Skill                            : Move : Hold Position : Attack : Patrol : Stop
+  Hotkey                           : G
+  See range                        : 4
+  Size                             : 0 : 0
+  Unit map                         : Fill
+  Item slot avail                  : All
+  Base item                        : Weapon : Weapon glove
+  Base damage                      : 10
+  Food used                        : 1
+  Cost                             : Gold : 10000
+  Time cost                        : 200
+  Attribute                        : Land unit : Unit can transported
+  Command right mouse no target    : Move
+  Command right mouse target ally  : Move
+  Command right mouse target anemy : Attack
+  Draw level                       : 2
+  Point                            : 10
+  Force                            : Attacker
+End setting
+
+###
+
+Setting for unit : Dark Daemon : Clan1
+  Name                             : DarkDaemon
+  Hit Point                        : 60
+  Skill                            : Move : Hold Position : Attack : Patrol : Stop
+  Hotkey                           : G
+  See range                        : 4
+  Size                             : 1 : 1
+  Unit map                         : Fill
+  Item slot avail                  : All
+  Base item                        : Weapon : Weapon glove
+  Base damage                      : 1
+  Food used                        : 1
+  Cost                             : Gold : 500
+  Time cost                        : 70
+  Attribute                        : Air unit : Unit has shadow
+  Command right mouse no target    : Move
+  Command right mouse target ally  : Move
+  Command right mouse target anemy : Attack
+  Draw level                       : 3
+  Point                            : 10
+  Force                            : Attacker
+End setting
+
+###
+
+Setting for unit : Daemon : Clan1
+  Name                             : Daemon
+  Hit Point                        : 60
+  Skill                            : Move : Hold Position : Attack : Patrol : Stop
+  Hotkey                           : G
+  See range                        : 4
+  Size                             : 1 : 1
+  Unit map                         : Fill
+  Item slot avail                  : All
+  Base item                        : Weapon : Weapon glove
+  Base damage                      : 1
+  Food used                        : 1
+  Cost                             : Gold : 500
+  Time cost                        : 70
+  Attribute                        : Air unit : Unit has shadow
+  Command right mouse no target    : Move
+  Command right mouse target ally  : Move
+  Command right mouse target anemy : Attack
+  Draw level                       : 3
+  Point                            : 10
+  Force                            : Attacker
+End setting
+
+###
+
+Setting for unit : Light : Clan1
+  Name                             : The Light
+  Hit Point                        : 30000
+  Skill                            : Move : Hold Position : Attack : Patrol : Stop
+  Hotkey                           : L
+  See range                        : 6
+  Size                             : 0 : 0
+  Unit map                         : Fill
+  Item slot avail                  : Weapon
+  Base item                        : Weapon : Weapon peon axe
+  Base damage                      : 100
+  Food used                        : 1
+  Attribute                        : Land unit : Unit can transported
+  Command right mouse no target    : Move
+  Command right mouse target ally  : Move
+  Command right mouse target anemy : Attack
+  Draw level                       : 2
+  Point                            : 10
+  Force                            : Attacker
+End setting
+
+###
+
+Setting for unit : Commander : Clan1
+  Name                             : Commander
+  Hit Point                        : 30000
+  Skill                            : Move : Hold Position : Attack : Patrol : Stop
+  Hotkey                           : L
+  See range                        : 6
+  Size                             : 0 : 0
+  Unit map                         : Fill
+  Item slot avail                  : All
+  Base item                        : Weapon : Weapon gun blade : Armor : Armor 1 : Shield : Shield 1 : Helm : Helm 1 : Boots : Boot 1
+  Base damage                      : 100
+  Food used                        : 1
+  Attribute                        : Land unit : Unit can transported
+  Command right mouse no target    : Move
+  Command right mouse target ally  : Move
+  Command right mouse target anemy : Attack
+  Draw level                       : 2
+  Point                            : 10
+  Force                            : Attacker
+End setting
+
+###
+
+Setting for unit : Gold Mine : Clan1
+  Name                             : Gold Mine
+  Hit Point                        : 1
+  Hotkey                           : G
+  See range                        : 2
+  Size                             : 2 : 2
+  Unit map                         : Fill
+  Attribute                        : Land unit : Building : Invulnerable : Unit is gold mine
+  Command right mouse no target    : Rally point
+  Command right mouse target ally  : Rally point
+  Command right mouse target anemy : Rally point
+  Draw level                       : 2
+  Force                            : Freedom
+End setting
+
+###
+
+Setting for unit : Dark Portal : Clan1
+  Name                             : Dark Portal
+  Hit Point                        : 99999
+  Hotkey                           : D
+  See range                        : 4
+  Size                             : 3 : 3
+  Unit map                         : Fill
+  Cost                             : Gold : 99999
+  Attribute                        : Land unit : Building
+  Time cost                        : 999
+  Command right mouse no target    : Rally point
+  Command right mouse target ally  : Rally point
+  Command right mouse target anemy : Rally point
+  Draw level                       : 2
+  Point                            : 10
+  Force                            : Freedom
+End setting
+
+###
+
+Setting for unit : Human farm : Clan1
+  Name                             : Farm
+  Hit Point                        : 400
+  Hotkey                           : F
+  See range                        : 3
+  Size                             : 1 : 1
+  Unit map                         : Fill
+  Food gain                        : 5
+  Cost                             : Gold : 500
+  Time cost                        : 100
+  Attribute                        : Land unit : Building
+  Command right mouse no target    : Rally point
+  Command right mouse target ally  : Rally point
+  Command right mouse target anemy : Rally point
+  Draw level                       : 2
+  Point                            : 10
+  Force                            : Building defence
+End setting
+
+###
+
+Setting for unit : Orc farm : Clan1
+  Name                             : Pig Farm
+  Hit Point                        : 400
+  Hotkey                           : F
+  See range                        : 3
+  Size                             : 1 : 1
+  Unit map                         : Fill
+  Food gain                        : 5
+  Cost                             : Gold : 500
+  Attribute                        : Land unit : Building
+  Time cost                        : 100
+  Command right mouse no target    : Rally point
+  Command right mouse target ally  : Rally point
+  Command right mouse target anemy : Rally point
+  Draw level                       : 2
+  Point                            : 10
+  Force                            : Building defence
+End setting
+
+###
+
+Setting for unit : Human barrack : Clan1
+  Name                             : Human Barrack
+  Hit Point                        : 800
+  Hotkey                           : B
+  See range                        : 3
+  Size                             : 2 : 2
+  Unit map                         : Fill
+  Cost                             : Gold : 700
+  Attribute                        : Land unit : Building
+  Time cost                        : 200
+  Can build                        : Footman : Archer : Knight
+  Command right mouse no target    : Rally point
+  Command right mouse target ally  : Rally point
+  Command right mouse target anemy : Rally point
+  Draw level                       : 2
+  Point                            : 10
+  Force                            : Building training
+End setting
+
+###
+
+Setting for unit : Orc barrack : Clan1
+  Name                             : Orc Barrack
+  Hit Point                        : 800
+  Hotkey                           : B
+  See range                        : 3
+  Size                             : 2 : 2
+  Unit map                         : Fill
+  Cost                             : Gold : 700
+  Attribute                        : Land unit : Building
+  Time cost                        : 200
+  Can build                        : Grunt : Axethrower : Ogre
+  Command right mouse no target    : Rally point
+  Command right mouse target ally  : Rally point
+  Command right mouse target anemy : Rally point
+  Draw level                       : 2
+  Point                            : 10
+  Force                            : Building training
+End setting
+
+###
+
+Setting for unit : Elven Lumber Mill : Clan1
+  Name                             : Elven Lumber Mill
+  Hit Point                        : 600
+  Hotkey                           : L
+  See range                        : 3
+  Size                             : 2 : 2
+  Unit map                         : Fill
+  Cost                             : Gold : 600
+  Attribute                        : Land unit : Building
+  Time cost                        : 150
+  Command right mouse no target    : Rally point
+  Command right mouse target ally  : Rally point
+  Command right mouse target anemy : Rally point
+  Draw level                       : 2
+  Point                            : 10
+  Force                            : Building defence
+End setting
+
+###
+
+Setting for unit : Troll Lumber Mill : Clan1
+  Name                             : Troll Lumber Mill
+  Hit Point                        : 600
+  Hotkey                           : L
+  See range                        : 3
+  Size                             : 2 : 2
+  Unit map                         : Fill
+  Cost                             : Gold : 600
+  Attribute                        : Land unit : Building
+  Time cost                        : 150
+  Command right mouse no target    : Rally point
+  Command right mouse target ally  : Rally point
+  Command right mouse target anemy : Rally point
+  Draw level                       : 2
+  Point                            : 10
+  Force                            : Building defence
+End setting
+
+###
+
+Setting for unit : Human BlackSmith : Clan1
+  Name                             : BlackSmith
+  Hit Point                        : 775
+  Hotkey                           : S
+  See range                        : 3
+  Size                             : 2 : 2  
+  Unit map                         : Fill
+  Cost                             : Gold : 800
+  Attribute                        : Land unit : Building
+  Time cost                        : 200
+  Command right mouse no target    : Rally point
+  Command right mouse target ally  : Rally point
+  Command right mouse target anemy : Rally point
+  Draw level                       : 2
+  Point                            : 10
+  Force                            : Building defence
+End setting
+
+###
+
+Setting for unit : Orc BlackSmith : Clan1
+  Name                             : BlackSmith
+  Hit Point                        : 775
+  Hotkey                           : S
+  See range                        : 3
+  Size                             : 2 : 2  
+  Unit map                         : Fill
+  Cost                             : Gold : 800
+  Attribute                        : Land unit : Building
+  Time cost                        : 200
+  Command right mouse no target    : Rally point
+  Command right mouse target ally  : Rally point
+  Command right mouse target anemy : Rally point
+  Draw level                       : 2
+  Point                            : 10
+  Force                            : Building defence
+End setting
+
+###
+
+Setting for unit : Gnomish Inventor : Clan1
+  Name                             : Gnomish Inventor
+  Hit Point                        : 500
+  Hotkey                           : I
+  See range                        : 3
+  Size                             : 2 : 2  
+  Unit map                         : Fill
+  Cost                             : Gold : 1000
+  Attribute                        : Land unit : Building
+  Time cost                        : 150
+  Can build                        : Flying Machine : Dwarven
+  Command right mouse no target    : Rally point
+  Command right mouse target ally  : Rally point
+  Command right mouse target anemy : Rally point
+  Draw level                       : 2
+  Point                            : 10
+  Force                            : Building training
+End setting
+
+###
+
+Setting for unit : Goblin Alchemist : Clan1
+  Name                             : Goblin Alchemist
+  Hit Point                        : 500
+  Hotkey                           : A
+  See range                        : 3
+  Size                             : 2 : 2  
+  Unit map                         : Fill
+  Cost                             : Gold : 1000
+  Attribute                        : Land unit : Building
+  Time cost                        : 150
+  Can build                        : Zeppelin : Goblin
+  Command right mouse no target    : Rally point
+  Command right mouse target ally  : Rally point
+  Command right mouse target anemy : Rally point
+  Draw level                       : 2
+  Point                            : 10
+  Force                            : Building training
+End setting
+
+###
+
+Setting for unit : Gryphon Aviary : Clan1
+  Name                             : Gryphon Aviary
+  Hit Point                        : 500
+  Hotkey                           : I
+  See range                        : 3
+  Size                             : 2 : 2  
+  Unit map                         : Fill
+  Cost                             : Gold : 1000
+  Attribute                        : Land unit : Building
+  Time cost                        : 150
+  Can build                        : Flying Machine : Dwarven
+  Command right mouse no target    : Rally point
+  Command right mouse target ally  : Rally point
+  Command right mouse target anemy : Rally point
+  Draw level                       : 2
+  Point                            : 10
+  Force                            : Building training
+End setting
+
+###
+
+Setting for unit : Dragon Roost : Clan1
+  Name                             : Dragon Roost
+  Hit Point                        : 500
+  Hotkey                           : A
+  See range                        : 3
+  Size                             : 2 : 2  
+  Unit map                         : Fill
+  Cost                             : Gold : 1000
+  Attribute                        : Land unit : Building
+  Time cost                        : 150
+  Can build                        : Zeppelin : Goblin
+  Command right mouse no target    : Rally point
+  Command right mouse target ally  : Rally point
+  Command right mouse target anemy : Rally point
+  Draw level                       : 2
+  Point                            : 10
+  Force                            : Building training
+End setting
+
+###
+
+Setting for unit : Stables : Clan1
+  Name                             : Stables
+  Hit Point                        : 500
+  Hotkey                           : S
+  See range                        : 3
+  Size                             : 2 : 2  
+  Unit map                         : Fill
+  Cost                             : Gold : 1000
+  Attribute                        : Land unit : Building
+  Time cost                        : 150
+  Command right mouse no target    : Rally point
+  Command right mouse target ally  : Rally point
+  Command right mouse target anemy : Rally point
+  Draw level                       : 2
+  Point                            : 10
+  Force                            : Building defence
+End setting
+
+###
+
+Setting for unit : Ogre Mound : Clan1
+  Name                             : Ogre Mound
+  Hit Point                        : 500
+  Hotkey                           : O
+  See range                        : 3
+  Size                             : 2 : 2  
+  Unit map                         : Fill
+  Cost                             : Gold : 1000
+  Attribute                        : Land unit : Building
+  Time cost                        : 150
+  Command right mouse no target    : Rally point
+  Command right mouse target ally  : Rally point
+  Command right mouse target anemy : Rally point
+  Draw level                       : 2
+  Point                            : 10
+  Force                            : Building defence
+End setting
+
+###
+
+Setting for unit : Mage Tower : Clan1
+  Name                             : Mage Tower
+  Hit Point                        : 500
+  Hotkey                           : M
+  See range                        : 3
+  Size                             : 2 : 2  
+  Unit map                         : Fill
+  Cost                             : Gold : 1000
+  Attribute                        : Land unit : Building
+  Time cost                        : 125
+  Can build                        : Mage
+  Command right mouse no target    : Rally point
+  Command right mouse target ally  : Rally point
+  Command right mouse target anemy : Rally point
+  Draw level                       : 2
+  Point                            : 10
+  Force                            : Building training
+End setting
+
+###
+
+Setting for unit : Temple of the damned : Clan1
+  Name                             : Temple of the damned
+  Hit Point                        : 500
+  Hotkey                           : T
+  See range                        : 3
+  Size                             : 2 : 2  
+  Unit map                         : Fill
+  Cost                             : Gold : 1000
+  Attribute                        : Land unit : Building
+  Time cost                        : 125
+  Can build                        : Death Knight
+  Command right mouse no target    : Rally point
+  Command right mouse target ally  : Rally point
+  Command right mouse target anemy : Rally point
+  Draw level                       : 2
+  Point                            : 10
+  Force                            : Building training
+End setting
+
+###
+
+Setting for unit : Church : Clan1
+  Name                             : Church
+  Hit Point                        : 700
+  Hotkey                           : C
+  See range                        : 3
+  Size                             : 2 : 2  
+  Unit map                         : Fill
+  Cost                             : Gold : 900
+  Attribute                        : Land unit : Building
+  Time cost                        : 175
+  Can build                        : Paladin
+  Command right mouse no target    : Rally point
+  Command right mouse target ally  : Rally point
+  Command right mouse target anemy : Rally point
+  Draw level                       : 2
+  Point                            : 10
+  Force                            : Building training
+End setting
+
+###
+
+Setting for unit : Altar of storm : Clan1
+  Name                             : Altar of storm
+  Hit Point                        : 700
+  Hotkey                           : A
+  See range                        : 3
+  Size                             : 2 : 2  
+  Unit map                         : Fill
+  Cost                             : Gold : 900
+  Attribute                        : Land unit : Building
+  Time cost                        : 175
+  Can build                        : Ogre Mage
+  Command right mouse no target    : Rally point
+  Command right mouse target ally  : Rally point
+  Command right mouse target anemy : Rally point
+  Draw level                       : 2
+  Point                            : 10
+  Force                            : Building training
+End setting
+
+###
+
+Setting for unit : Town Hall : Clan1
+  Name                             : Town Hall
+  Hit Point                        : 1200
+  Hotkey                           : H
+  See range                        : 3
+  Size                             : 3 : 3
+  Unit map                         : Fill
+  Food gain                        : 10
+  Cost                             : Gold : 1200
+  Attribute                        : Land unit : Building : Unit is deposit
+  Time cost                        : 255
+  Can build                        : Peasant
+  Command right mouse no target    : Rally point
+  Command right mouse target ally  : Rally point
+  Command right mouse target anemy : Rally point
+  Draw level                       : 2
+  Point                            : 10
+  Force                            : Building town
+End setting
+
+###
+
+Setting for unit : Great Hall : Clan1
+  Name                             : Great Hall
+  Hit Point                        : 1200
+  Hotkey                           : G
+  See range                        : 3
+  Size                             : 3 : 3
+  Unit map                         : Fill
+  Food gain                        : 10
+  Cost                             : Gold : 1200
+  Attribute                        : Land unit : Building : Unit is deposit
+  Time cost                        : 255
+  Can build                        : Peon
+  Command right mouse no target    : Rally point
+  Command right mouse target ally  : Rally point
+  Command right mouse target anemy : Rally point
+  Draw level                       : 2
+  Point                            : 10
+  Force                            : Building town
+End setting
+
+###
+
+Setting for unit : Keep : Clan1
+  Name                             : Keep
+  Hit Point                        : 1400
+  Hotkey                           : H
+  See range                        : 3
+  Size                             : 3 : 3
+  Unit map                         : Fill
+  Food gain                        : 10
+  Cost                             : Gold : 2000
+  Attribute                        : Land unit : Building : Unit is deposit
+  Time cost                        : 200
+  Can build                        : Peasant
+  Command right mouse no target    : Rally point
+  Command right mouse target ally  : Rally point
+  Command right mouse target anemy : Rally point
+  Draw level                       : 2
+  Point                            : 10
+  Force                            : Building town
+End setting
+
+###
+
+Setting for unit : Strong Hold : Clan1
+  Name                             : Strong Hold
+  Hit Point                        : 1400
+  Hotkey                           : G
+  See range                        : 3
+  Size                             : 3 : 3
+  Unit map                         : Fill
+  Food gain                        : 10
+  Cost                             : Gold : 2000
+  Attribute                        : Land unit : Building : Unit is deposit
+  Time cost                        : 200
+  Can build                        : Peon
+  Command right mouse no target    : Rally point
+  Command right mouse target ally  : Rally point
+  Command right mouse target anemy : Rally point
+  Draw level                       : 2
+  Point                            : 10
+  Force                            : Building town
+End setting
+
+###
+
+Setting for unit : Castle : Clan1
+  Name                             : Castle
+  Hit Point                        : 1600
+  Hotkey                           : H
+  See range                        : 3
+  Size                             : 3 : 3
+  Unit map                         : Fill
+  Food gain                        : 10
+  Cost                             : Gold : 2500
+  Attribute                        : Land unit : Building : Unit is deposit
+  Time cost                        : 200
+  Can build                        : Peasant
+  Command right mouse no target    : Rally point
+  Command right mouse target ally  : Rally point
+  Command right mouse target anemy : Rally point
+  Draw level                       : 2
+  Point                            : 10
+  Force                            : Building town
+End setting
+
+###
+
+Setting for unit : Fortress : Clan1
+  Name                             : Fortress
+  Hit Point                        : 1600
+  Hotkey                           : G
+  See range                        : 3
+  Size                             : 3 : 3
+  Unit map                         : Fill
+  Food gain                        : 10
+  Cost                             : Gold : 2500
+  Attribute                        : Land unit : Building : Unit is deposit
+  Time cost                        : 200
+  Can build                        : Peon
+  Command right mouse no target    : Rally point
+  Command right mouse target ally  : Rally point
+  Command right mouse target anemy : Rally point
+  Draw level                       : 2
+  Point                            : 10
+  Force                            : Building town
+End setting
+
+###
+
+Setting for unit : Human scout tower : Clan1
+  Name                             : Scout tower
+  Hit Point                        : 100
+  Hotkey                           : T
+  See range                        : 9
+  Size                             : 1 : 1
+  Unit map                         : Fill
+  Skill                            : Attack : Stop
+  Item slot avail                  : Weapon
+  Base item                        : Weapon : Weapon Bow
+  Cost                             : Gold : 550
+  Attribute                        : Land unit : Building : Unit true sight
+  Time cost                        : 60
+  Command right mouse no target    : Rally point
+  Command right mouse target ally  : Rally point
+  Command right mouse target anemy : Rally point
+  Draw level                       : 2
+  Point                            : 10
+  Force                            : Building defence
+End setting
+
+###
+
+Setting for unit : Orc watch tower : Clan1
+  Name                             : Watch tower
+  Hit Point                        : 100
+  Hotkey                           : T
+  See range                        : 9
+  Size                             : 1 : 0
+  Unit map                         : Fill
+  Skill                            : Attack : Stop
+  Item slot avail                  : Weapon
+  Base item                        : Weapon : Weapon Bow
+  Cost                             : Gold : 550
+  Attribute                        : Land unit : Building : Unit true sight
+  Time cost                        : 60
+  Command right mouse no target    : Rally point
+  Command right mouse target ally  : Rally point
+  Command right mouse target anemy : Rally point
+  Draw level                       : 2
+  Point                            : 10
+  Force                            : Building defence
+End setting
+
+###
+
+Setting for unit : Human guard tower : Clan1
+  Name                             : Guard tower
+  Hit Point                        : 130
+  Hotkey                           : G
+  See range                        : 9
+  Size                             : 1 : 1
+  Unit map                         : Fill
+  Skill                            : Attack : Stop
+  Item slot avail                  : Weapon
+  Base item                        : Weapon : Weapon Bow
+  Cost                             : Gold : 500
+  Attribute                        : Land unit : Building : Unit true sight
+  Time cost                        : 140
+  Command right mouse no target    : Rally point
+  Command right mouse target ally  : Rally point
+  Command right mouse target anemy : Rally point
+  Draw level                       : 2
+  Point                            : 10
+  Force                            : Building defence
+End setting
+
+###
+
+Setting for unit : Orc guard tower : Clan1
+  Name                             : Guard tower
+  Hit Point                        : 130
+  Hotkey                           : G
+  See range                        : 9
+  Size                             : 1 : 1
+  Unit map                         : Fill
+  Skill                            : Attack : Stop
+  Item slot avail                  : Weapon
+  Base item                        : Weapon : Weapon Bow
+  Cost                             : Gold : 500
+  Attribute                        : Land unit : Building : Unit true sight
+  Time cost                        : 140
+  Command right mouse no target    : Rally point
+  Command right mouse target ally  : Rally point
+  Command right mouse target anemy : Rally point
+  Draw level                       : 2
+  Point                            : 10
+  Force                            : Building defence
+End setting
+
+###
+
+Setting for unit : Human cannon tower : Clan1
+  Name                             : Cannon tower
+  Hit Point                        : 160
+  Hotkey                           : C
+  See range                        : 9
+  Size                             : 1 : 1
+  Unit map                         : Fill
+  Skill                            : Attack : Stop
+  Item slot avail                  : Weapon
+  Base item                        : Weapon : Weapon Bow
+  Cost                             : Gold : 1000
+  Attribute                        : Land unit : Building : Unit true sight
+  Time cost                        : 190
+  Command right mouse no target    : Rally point
+  Command right mouse target ally  : Rally point
+  Command right mouse target anemy : Rally point
+  Draw level                       : 2
+  Point                            : 10
+  Force                            : Building defence
+End setting
+
+###
+
+Setting for unit : Orc cannon tower : Clan1
+  Name                             : Cannon tower
+  Hit Point                        : 160
+  Hotkey                           : C
+  See range                        : 9
+  Size                             : 1 : 1
+  Unit map                         : Fill
+  Skill                            : Attack : Stop
+  Item slot avail                  : Weapon
+  Base item                        : Weapon : Weapon Bow
+  Cost                             : Gold : 1000
+  Attribute                        : Land unit : Building : Unit true sight
+  Time cost                        : 190
+  Command right mouse no target    : Rally point
+  Command right mouse target ally  : Rally point
+  Command right mouse target anemy : Rally point
+  Draw level                       : 2
+  Point                            : 10
+  Force                            : Building defence
+End setting
+
+###
+
+Setting for unit : Alien Construction : Clan1
+  Name                             : Alien Construction
+  Hit Point                        : 333
+  Hotkey                           : C
+  See range                        : 4
+  Size                             : 3 : 2
+  Unit map                         : Fill
+  Cost                             : Gold : 100
+  Attribute                        : Land unit : Building
+  Time cost                        : 20
+  Command right mouse no target    : Rally point
+  Command right mouse target ally  : Rally point
+  Command right mouse target anemy : Rally point
+  Draw level                       : 2
+  Point                            : 10
+  Force                            : Building defence
+End setting
+
+###
+
+###All unit like unit in clan one
+
+Every unit in clans same clan : Clan1
+
+###End of all setting

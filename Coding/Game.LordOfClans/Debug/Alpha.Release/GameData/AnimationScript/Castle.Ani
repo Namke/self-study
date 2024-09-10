@@ -1,0 +1,107 @@
+[Unit have mask]
+[Image info]
+2 0 0 128 128
+[Transparent color RGB]
+252 252 252
+[Using file]
+Images\Buildings\Castle.png
+[[Stand script]]
+[Heading 1]
+1
+0 0 0 0
+[Heading 2]
+1
+0 0 0 1
+[Heading 3]
+1
+0 0 0 0
+[Heading 4]
+1
+0 0 0 1
+[Heading 5]
+1
+0 0 0 0
+[Heading 6]
+1
+0 0 0 1
+[Heading 7]
+1
+0 0 0 0
+[Heading 8]
+1
+0 0 0 1
+[[Run script]]
+[Heading 1]
+1
+0 0 0 0
+[Heading 2]
+1
+0 0 0 1
+[Heading 3]
+1
+0 0 0 0
+[Heading 4]
+1
+0 0 0 1
+[Heading 5]
+1
+0 0 0 0
+[Heading 6]
+1
+0 0 0 1
+[Heading 7]
+1
+0 0 0 0
+[Heading 8]
+1
+0 0 0 1
+[[Attack script]]
+[Heading 1]
+1
+0 0 0 0
+[Heading 2]
+1
+0 0 0 1
+[Heading 3]
+1
+0 0 0 0
+[Heading 4]
+1
+0 0 0 1
+[Heading 5]
+1
+0 0 0 0
+[Heading 6]
+1
+0 0 0 1
+[Heading 7]
+1
+0 0 0 0
+[Heading 8]
+1
+0 0 0 1
+[[Dead script]]
+[Heading 1]
+1
+1 0 0 0
+[Heading 2]
+1
+1 0 0 1
+[Heading 3]
+1
+1 0 0 0
+[Heading 4]
+1
+1 0 0 1
+[Heading 5]
+1
+1 0 0 0
+[Heading 6]
+1
+1 0 0 1
+[Heading 7]
+1
+1 0 0 0
+[Heading 8]
+1
+1 0 0 1

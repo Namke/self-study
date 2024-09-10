@@ -1,0 +1,71 @@
+NumPlayer : 5
+Resoucers :
+100000 100000 100000 1
+100000 100000 100000 2
+100000 100000 100000 3
+100000 100000 100000 4
+100000 100000 100000 5
+-------------
+Player 1
+Peon
+001 001 100
+Player 1
+Peasant
+018 008 100
+Player 1
+Monster1
+019 009 100
+Player 1
+Monster2
+020 010 100
+Player 1
+Monster3
+021 011 100
+Player 1
+Monster4
+003 003 100
+Player 1
+OStables
+010 010 100
+Player 1
+OStables
+014 014 100
+Player 3
+Mage
+013 123 10000
+Player 4
+DeadKnight
+015 125 10000
+Player 4
+DeadKnight
+016 125 10000
+Player 4
+DeadKnight
+017 125 10000
+Player 4
+DeadKnight
+018 125 10000
+Player 4
+DeadKnight
+019 125 10000
+Player 4
+DeadKnight
+020 125 10000
+Player 4
+DeadKnight
+021 125 10000
+Player 4
+HBarrack
+200 200 100
+Player 4
+HBarrack
+204 200 100
+Player 4
+HBarrack
+208 200 100
+Player 4
+HBarrack
+212 200 100
+Player 4
+StrongHall
+216 200 100

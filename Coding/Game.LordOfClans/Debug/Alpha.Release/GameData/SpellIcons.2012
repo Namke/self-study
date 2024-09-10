@@ -1,0 +1,18 @@
+#Spells icon setting file
+#A part of warcraft new generation project
+#Copyrights 2002-2003 K-Outertainment
+#
+#
+#
+#  If you can see this file then your version is pre alpha, you can modify
+#any info about game (if you can) but I don't sure that don't generated
+#an error in game playing and trouble with your system.
+#                                CrazyBabe
+#
+Spell:Invisibility   :FileName:Images\Icons\SpellButtons\SBInvisibility.Png
+Spell:Decay          :FileName:Images\Icons\SpellButtons\SBDecay.Png
+Spell:BloodLust      :FileName:Images\Icons\SpellButtons\SBBloodLust.Png
+Spell:FireBall       :FileName:Images\Icons\SpellButtons\SBFireBall.Png
+Spell:Blizzard       :FileName:Images\Icons\SpellButtons\SBBlizzard.Png
+Spell:Lightning      :FileName:Images\Icons\SpellButtons\SBLightning.Png
+Spell:Haste          :FileName:Images\Icons\SpellButtons\SBHaste.Png

@@ -1,0 +1,132 @@
+[Image info]
+3 9 5 110 86
+[Transparent color RGB]
+0 0 0
+[Using List]
+Images\Buildings\AlienConstruction\A1.Png
+Images\Buildings\AlienConstruction\A2.Png
+Images\Buildings\AlienConstruction\A3.Png
+[[Stand script]]
+[Heading 1]
+4
+0 5 0 0
+1 5 0 0
+2 5 0 0
+1 5 0 0
+[Heading 2]
+4
+0 5 0 1
+1 5 0 1
+2 5 0 1
+1 5 0 1
+[Heading 3]
+4
+0 5 0 0
+1 5 0 0
+2 5 0 0
+1 5 0 0
+[Heading 4]
+4
+0 5 0 1
+1 5 0 1
+2 5 0 1
+1 5 0 1
+[Heading 5]
+4
+0 5 0 0
+1 5 0 0
+2 5 0 0
+1 5 0 0
+[Heading 6]
+4
+0 5 0 1
+1 5 0 1
+2 5 0 1
+1 5 0 1
+[Heading 7]
+4
+0 5 0 0
+1 5 0 0
+2 5 0 0
+1 5 0 0
+[Heading 8]
+4
+0 5 0 1
+1 5 0 1
+2 5 0 1
+1 5 0 1
+[[Run script]]
+[Heading 1]
+1
+0 0 0 0
+[Heading 2]
+1
+0 0 0 1
+[Heading 3]
+1
+0 0 0 0
+[Heading 4]
+1
+0 0 0 1
+[Heading 5]
+1
+0 0 0 0
+[Heading 6]
+1
+0 0 0 1
+[Heading 7]
+1
+0 0 0 0
+[Heading 8]
+1
+0 0 0 1
+[[Attack script]]
+[Heading 1]
+1
+0 0 0 0
+[Heading 2]
+1
+0 0 0 1
+[Heading 3]
+1
+0 0 0 0
+[Heading 4]
+1
+0 0 0 1
+[Heading 5]
+1
+0 0 0 0
+[Heading 6]
+1
+0 0 0 1
+[Heading 7]
+1
+0 0 0 0
+[Heading 8]
+1
+0 0 0 1
+[[Dead script]]
+[Heading 1]
+1
+1 0 0 0
+[Heading 2]
+1
+1 0 0 1
+[Heading 3]
+1
+1 0 0 0
+[Heading 4]
+1
+1 0 0 1
+[Heading 5]
+1
+1 0 0 0
+[Heading 6]
+1
+1 0 0 1
+[Heading 7]
+1
+1 0 0 0
+[Heading 8]
+1
+1 0 0 1

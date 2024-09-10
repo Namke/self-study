@@ -1,0 +1,187 @@
+*Loging 30/4/2003 23h57:
+  Fixed error AIplayer don't prepare locating main town when reload game
+
+*Loging 28/4/2003 23h41:
+  Create save and load slot.
+  Create demo map.
+  First release.
+
+*Loging 26/4/2003 0h40:
+  I found a stranger error, founded when play game and one computer component has die. But when restart
+computer, I don't have this an error, maybe that occur because troube with another program ? Or trouble
+with my video card ? Hate.
+
+*Loging 25/4/2003 23h30:
+  Fixed error shown button unload unit when unit go into other to build or training
+  Create editor select unit buttons
+
+*Loging 22/4/2003 11h57:
+  Reduce code in player input on game play mode
+  Create method for add unit to map
+
+*Loging 20/4/2003 0h10:
+  Begin created map editor
+
+*Loging 13/4/2003 11h30:
+  Fixed error lost unit focus when add/clear unit from group by ctrl+left mouse click.
+  Changes database file name.
+  Added parameters configuration for video mode and full screen on/off.
+
+*Loging 11/4/2003 0h30:
+  More add load data from database, add find free command unit hotkey.
+   
+*Loging 9/4/2003 1h30:
+  Added loading data from database file, and add the log when loading data
+
+*Loging 27/3/2003/2h:
+  Added script functions.
+  Fixed error when restart script.
+  Fixed wrong when unit changed heading.
+  Fixed error in Avenus3D
+  Test some script.
+  Report:
+    Maximum run: 300 FPS (On screen)
+
+*Loging 26/3/2003/1h:
+  Allow multi script runtime.
+  Add some script function.
+  Fixed error in FireStormDLL when optimizing code gen.
+  Complete used only FireStormDLL in Avenus3D engine.
+
+*Loging 25/3/2003/3h:
+  Added script system - using Pascal Skate Script.
+  Now Pascal Skate Script can be run in step - but that the test, not exact runable.
+
+*Loging 21/2/2003/3h:
+  Added unit effect.
+  Correct data type.
+  Fixed error when set unit command to attack or attack at, attacking, attacking stand then unit don't
+back to last command because I clear UnitPrevCmd when set this action !
+
+*Loging 19/2/2003/2h:
+  Full support invisible unit, true sight and tower attack stand mode !
+  Support hold position.
+  Fixed error when unit lost target.
+  Added clan color.
+
+*Loging 16/2/2003/1h:
+  Fixed error when send unit queue to death not set unit to unused, maybe unit continue process and conflict
+with other.
+  Added unit load/unload transport.
+
+*Loging 14/2/2003/14h:
+  Fixed error counting unit (unit was born in peon or peasant class but die in peonwithgold-peasantwithgold
+class then when decrease unit counting, maybe unitcounting can be exceed less than zero)
+  Add more unit: Arbiter, Carrier, Intercept - That needed ? This a StarCraft unit class !
+  Fixed error when select unit by clicking, select last unit with MaxDrawLevel (Because that highest unit
+add to queue when shown on screen !)
+
+*Loging 12/2/2003/2h:
+  Moved some function (CheckAttacking, CheckCastSpell on LOCUnits to LOCWorlds ...)
+  Fixed some error when process unit command
+  Add building animation
+  Add "commander" unit, not good, so can except !
+  Changing terrain render, not like old version but faster, that like a simple terrain, but had a level and
+now I can check terrain level very easy by level tick !
+  I think when attack one, if this unit enter gold mine or something, attack not stop then when unit die,
+unit link not clear then occur error linked, now I'm not enough of time. Tomorrow I'm fixed it.
+
+*Loging 10/2/2003/2h:
+  Adding computer AI - very simple
+  Fixed some error when switch between other command
+  Sometime when testing - I don't know exact when - Unit lost command (when at command Attack [12]) and
+stand. I think it because AIPlayer repeated send command when last command under running then I made
+AIPlayer only send command for unit has no command, but maybe that occur with human player ? That error I
+don't know.
+
+*Loging 8/2/2003/22h:
+  Complete continue building (many unit used to build one building per time)
+  Fixed unit item transfer
+  Add unit has a slot can't used - free slot - slot require specific item class
+  Fixed unit resource, change GoldMine can has only GoldAmound
+  Fixed unit position (Between gold mine and deposit target)
+
+*Loging 8/2/2003/2h:
+  Complete unit item transfer, drag and drop, pick up and put item to land or other unit !
+
+*Loging 5/2/2003/0h:
+  Complete unit group building queue (one unit per building) and shown unit check bound when selected position
+to building.
+  Complete checked when selected unit (unit hiden can't selected).
+
+*Loging 4/2/2003/2h:
+  Complete unit mining and return gold, unit still wait for enter goldmine, not cancel mining command ! This
+maybe generate something about speed, but right now I don't think about that. Function to unit return gold
+very simple, because now I'm lost time !
+
+*Loging 1/2/2003/21h:
+  Fixed error when "attack at" and "patrol" command, get next or prev command must not clear prev and next
+command, only clear this get command !
+
+*Loging 31/1/2003/22h:
+  Include unit cast spell, rechange unit commmand structure, this struct pack on one record has all data
+
+*Loging 28/1/2003/23h:
+  Complete unit shadow, missile attacking ... Why not missile shadow ? Huh ?
+  Apply lightning - for time effect like noon, evening.. he he, more difficult for human player !
+
+*Loging 27/1/2003/11h:
+  Complete method minimap shown
+
+*Loging 26/1/2003/13h:
+  Fix error on set unit on map, now when place unit on map or take unit from map I also set
+unit attribure UnitOnMap on/off.
+  UnitUnderFog only building, corpse can se thought foging but will be rechange by unit death
+
+*Loging 26/1/2003:
+  Complete exact shown unit color by clan color ! This using sprite fit on D3D surface before
+rendering !
+
+*Loging 25/1/2003:
+   Include true view sight, unit can't see land higher than unit position !
+
+*Loging 23/1/2003:
+  Adding terrain rendering engine (2D based)
+
+*Loging 22/1/2003:
+  Semi convert to using Avenus3D engine, in future game is complete 3D game !
+
+*Loging 11/1/2003:
+  - Grouped all button : unit selected, unit command, unit item... on to one game button group !
+
+*Loging 8/1/2003:
+  - UnitWait frame mul with 10 to reduce unit movement and attacking speed, per cycles UnitWait can
+be decrease/increase with 10 !
+  - Defined TempImage in TLOCDraw method for tempolary image with scale, effect...
+  - Remove UnitCheckedPoint in LOCUnitProcess to LOCDraw (This great idea, he he...)
+  - Reduce code of DrawUnit and DrawUnitSelected/UnitCheckedPoint throught tempolary variables
+
+*Loging 27/12/2002:
+  - New method for map saving, map are compressed for little size
+  - Program can run clearly, but not best speed,
+  - Support for command move, stop, attack, attacking, stand before attack, patrol, wasted time
+  - Unit animation setting script support for stand, stand 2, stand 3, wasted, attack, run, dead script
+  - Unit animation can loading from one file or from list of file
+  - Unit animation thought text file setup
+  - Unit property thought text file
+  - Item property thought text file
+  - Game support simple menu for checking command
+  - Remember :
+    Draw level :
+      Underground level 0
+      Corpse level 1
+      Building level 2
+      Land unit level 3
+      Air unit level 4
+  - Selected building differ from selected units, if on map show building, then I selected
+this first, and building can group with other type of unit. And select own unit first.
+  - Replace old method put unit to map by new method
+Loging 28/12/2002:
+  - Nothing
+Loging 1/1/2003:
+  - Unit can be send right command by skill defined from property, unit has property to right
+click command no target, target ally and target enemy !
+  - Faster path finding by new method AddNode, now I add node at last queue and when I take
+a node, I find node about first to last, but that increased speed of path finding !
+
+

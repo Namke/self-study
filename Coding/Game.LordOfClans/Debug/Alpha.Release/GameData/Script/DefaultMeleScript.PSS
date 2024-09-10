@@ -1,0 +1,19 @@
+VAR
+  FinishGame   : Boolean;
+  OldGameCount : Integer;
+
+BEGIN
+  FinishGame:=False;
+  OldGameCount:=GameCount-1000;
+  Repeat
+    If GameCount>OldGameCount+1000 then
+      Begin         
+        If CountOfEnemyUnit(HumanControl)=0 then
+          Begin 
+            FinishGame:=True;
+            YouVictory;
+          End;
+        OldGameCount:=GameCount;
+      End;
+  Until FinishGame;
+END.

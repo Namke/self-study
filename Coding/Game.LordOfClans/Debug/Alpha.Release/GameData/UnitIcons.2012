@@ -1,0 +1,71 @@
+#Units icon setting file
+#A part of warcraft new generation project
+#Copyrights 2002-2003 K-Outertainment
+#
+#
+#
+#  If you can see this file then your version is pre alpha, you can modify
+#any info about game (if you can) but I don't sure that don't generated
+#an error in game playing and trouble with your system.
+#                                CrazyBabe
+#
+#Units icon
+Unit:Peasant          :FileName:Images\Icons\UnitButtons\UBPeasant.png
+Unit:Peon             :FileName:Images\Icons\UnitButtons\UBPeon.png
+Unit:PeasantWithGold  :FileName:Images\Icons\UnitButtons\UBPeasant.png
+Unit:PeonWithGold     :FileName:Images\Icons\UnitButtons\UBPeon.png
+Unit:Footman          :FileName:Images\Icons\UnitButtons\UBFootman.png
+Unit:Grunt            :FileName:Images\Icons\UnitButtons\UBGrunt.png
+Unit:Archer           :FileName:Images\Icons\UnitButtons\UBArcher.png
+Unit:Axethrower       :FileName:Images\Icons\UnitButtons\UBAxethrower.png
+Unit:Ranger           :FileName:Images\Icons\UnitButtons\UBRanger.png
+Unit:Berserker        :FileName:Images\Icons\UnitButtons\UBBerserker.png
+Unit:Knight           :FileName:Images\Icons\UnitButtons\UBKnight.png
+Unit:Ogre             :FileName:Images\Icons\UnitButtons\UBOgre.png
+Unit:Paladin          :FileName:Images\Icons\UnitButtons\UBPaladin.png
+Unit:OgreMage         :FileName:Images\Icons\UnitButtons\UBOgreMage.png
+Unit:Mage             :FileName:Images\Icons\UnitButtons\UBMage.png
+Unit:DeathKnight      :FileName:Images\Icons\UnitButtons\UBDeathKnight.png
+Unit:Ballista         :FileName:Images\Icons\UnitButtons\UBBallista.png
+Unit:Catapul          :FileName:Images\Icons\UnitButtons\UBCatapul.png
+Unit:FlyingMachine    :FileName:Images\Icons\UnitButtons\UBFlyingMachine.png
+Unit:Zeppelin         :FileName:Images\Icons\UnitButtons\UBZeppelin.png
+Unit:Dwarven          :FileName:Images\Icons\UnitButtons\UBDwarven.png
+Unit:Goblin           :FileName:Images\Icons\UnitButtons\UBGoblin.png
+Unit:Dragon           :FileName:Images\Icons\UnitButtons\UBDragon.png
+Unit:DeathWing        :FileName:Images\Icons\UnitButtons\UBDeathWing.png
+Unit:Xkeleton         :FileName:Images\Icons\UnitButtons\UBXkeleton.png
+Unit:Daemon           :FileName:Images\Icons\UnitButtons\UBDaemon.png
+#Buildings icon
+Unit:GoldMine         :FileName:Images\Icons\UnitButtons\UBGoldMine.png
+Unit:DarkPortal       :FileName:Images\Icons\UnitButtons\UBDarkPortal.png
+Unit:TownHall         :FileName:Images\Icons\UnitButtons\UBTownHall.png
+Unit:GreatHall        :FileName:Images\Icons\UnitButtons\UBGreatHall.png
+Unit:Keep             :FileName:Images\Icons\UnitButtons\UBKeep.png
+Unit:StrongHold       :FileName:Images\Icons\UnitButtons\UBStrongHold.png
+Unit:Castle           :FileName:Images\Icons\UnitButtons\UBCastle.png
+Unit:Fortress         :FileName:Images\Icons\UnitButtons\UBFortress.png
+Unit:HumanFarm        :FileName:Images\Icons\UnitButtons\UBHumanFarm.png
+Unit:OrcFarm          :FileName:Images\Icons\UnitButtons\UBOrcFarm.png
+Unit:HumanBarrack     :FileName:Images\Icons\UnitButtons\UBHumanBarrack.png
+Unit:OrcBarrack       :FileName:Images\Icons\UnitButtons\UBOrcBarrack.png
+Unit:HumanBlackSmith  :FileName:Images\Icons\UnitButtons\UBHumanBlackSmith.png
+Unit:OrcBlackSmith    :FileName:Images\Icons\UnitButtons\UBOrcBlackSmith.png
+Unit:ElvenLumberMill  :FileName:Images\Icons\UnitButtons\UBElvenLumberMill.png
+Unit:TrollLumberMill  :FileName:Images\Icons\UnitButtons\UBTrollLumberMill.png
+Unit:GnomishInventor  :FileName:Images\Icons\UnitButtons\UBGnomishInventor.png
+Unit:GoblinAlchemist  :FileName:Images\Icons\UnitButtons\UBGoblinAlchemist.png
+Unit:Stables          :FileName:Images\Icons\UnitButtons\UBStables.png
+Unit:OgreMound        :FileName:Images\Icons\UnitButtons\UBOgreMound.png
+Unit:Church           :FileName:Images\Icons\UnitButtons\UBChurch.png
+Unit:AltarOfStorm     :FileName:Images\Icons\UnitButtons\UBAltarOfStorm.png
+Unit:MageTower        :FileName:Images\Icons\UnitButtons\UBMageTower.png
+Unit:TempleOfTheDamned:FileName:Images\Icons\UnitButtons\UBTempleOfTheDamned.png
+Unit:GryphonAviary    :FileName:Images\Icons\UnitButtons\UBGryphonAviary.png
+Unit:DragonRoost      :FileName:Images\Icons\UnitButtons\UBDragonRoost.png
+Unit:HumanScoutTower  :FileName:Images\Icons\UnitButtons\UBHumanScoutTower.png
+Unit:OrcWatchTower    :FileName:Images\Icons\UnitButtons\UBOrcWatchTower.png
+Unit:HumanGuardTower  :FileName:Images\Icons\UnitButtons\UBHumanGuardTower.png
+Unit:OrcGuardTower    :FileName:Images\Icons\UnitButtons\UBOrcGuardTower.png
+Unit:HumanCannonTower :FileName:Images\Icons\UnitButtons\UBHumanCannonTower.png
+Unit:OrcCannonTower   :FileName:Images\Icons\UnitButtons\UBOrcCannonTower.png

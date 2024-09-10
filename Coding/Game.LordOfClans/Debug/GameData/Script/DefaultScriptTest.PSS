@@ -1,0 +1,38 @@
+Const
+  UnitName = 'CrazyBabe';
+
+Var
+  OldGameCount : Integer;
+  UnitID : Integer;
+  HitPoint : Integer;
+
+{
+  UnitID:=FindUnitIDByName(UnitName);
+  If UnitID=0 then 
+    Begin 
+      Message('Can''t look to unit '+UnitName);
+      Exit;
+    End
+  Else 
+    Begin
+       Message('Kill '+UnitName+' then you won !');
+    End;
+  OldGameCount:=GameCount-300;
+  Repeat
+    If GameCount>OldGameCount+300 then {
+      //Find unit CrazyBabe
+      UnitID:=FindUnitIDByName(UnitName);
+      Message('Found ID '+IntToStr(UnitID));
+      //Get unit hit point
+      HitPoint:=GetUnitHitPoint(UnitID);
+      Message('Unit hitpoint '+IntToStr(HitPoint));
+      //If unit died, set game to victory !
+      If HitPoint<=0 then 
+        Begin
+          YouVictory;
+          Exit;
+        End;
+      OldGameCount:=GameCount;
+    }
+  Until False;
+}.

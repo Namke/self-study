@@ -1,0 +1,101 @@
+#Item images setting file
+#A part of warcraft new generation project
+#Copyrights 2002-2003 K-Outertainment
+#
+#
+#
+#  If you can see this file then your version is pre alpha, you can modify
+#any info about game (if you can) but I don't sure that don't generated
+#an error in game playing and trouble with your system.
+#                                CrazyBabe
+#
+#Item weapon class
+Item:WeaponPeonAxe            :FileName:Images\Icons\ItemButtons\IBWPeonAxe.Png
+Item:WeaponBlade              :FileName:Images\Icons\ItemButtons\IBWBlade.Png
+Item:WeaponMagicBlade         :FileName:Images\Icons\ItemButtons\IBWMagicBlade.Png
+Item:WeaponGunBlade           :FileName:Images\Icons\ItemButtons\IBWGunBlade.Png
+Item:WeaponBow                :FileName:Images\Icons\ItemButtons\IBWBow.Png
+Item:WeaponLongBow            :FileName:Images\Icons\ItemButtons\IBWLongBow.Png
+Item:WeaponMagicBow           :FileName:Images\Icons\ItemButtons\IBWMagicBow.Png
+Item:WeaponBesAxe             :FileName:Images\Icons\ItemButtons\IBWBesAxe.Png
+Item:WeaponLongBesAxe         :FileName:Images\Icons\ItemButtons\IBWLongBesAxe.Png
+Item:WeaponMagicBesAxe        :FileName:Images\Icons\ItemButtons\IBWMagicBesAxe.Png
+Item:WeaponSpear              :FileName:Images\Icons\ItemButtons\IBWSpear.Png
+Item:WeaponMagicSpear         :FileName:Images\Icons\ItemButtons\IBWMagicSpear.Png
+Item:WeaponSuperSpear         :FileName:Images\Icons\ItemButtons\IBWSuperSpear.Png
+Item:WeaponBattleAxe          :FileName:Images\Icons\ItemButtons\IBWBattleAxe.Png
+Item:WeaponMagicBattleAxe     :FileName:Images\Icons\ItemButtons\IBWMagicBattleAxe.Png
+Item:WeaponSuperBattleAxe     :FileName:Images\Icons\ItemButtons\IBWSuperBattleAxe.Png
+Item:WeaponHeavySpear         :FileName:Images\Icons\ItemButtons\IBWHeavySpear.Png
+Item:WeaponMagicHeavySpear    :FileName:Images\Icons\ItemButtons\IBWMagicHeavySpear.Png
+Item:WeaponGlove              :FileName:Images\Icons\ItemButtons\IBWGlove.Png
+Item:WeaponMagicGlove         :FileName:Images\Icons\ItemButtons\IBWMagicGlove.Png
+Item:WeaponMagicStaff         :FileName:Images\Icons\ItemButtons\IBWMagicStaff.Png
+Item:WeaponDeathMagicStaff    :FileName:Images\Icons\ItemButtons\IBWDeathMagicStaff.Png
+Item:WeaponBallistaBolt       :FileName:Images\Icons\ItemButtons\IBWBallistaBolt.Png
+Item:WeaponCatapulRock        :FileName:Images\Icons\ItemButtons\IBWCatapulRock.Png
+Item:WeaponHellFire           :FileName:Images\Icons\ItemButtons\IBWHellFire.Png
+Item:WeaponDragonBreath       :FileName:Images\Icons\ItemButtons\IBWDragonBreath.Png
+Item:WeaponGryphonHammer      :FileName:Images\Icons\ItemButtons\IBWGryphonHammer.Png
+#
+Item:Armor1                   :FileName:Images\Icons\ItemButtons\IBAArmor1.Png
+Item:Armor2                   :FileName:Images\Icons\ItemButtons\IBAArmor2.Png
+Item:Armor3                   :FileName:Images\Icons\ItemButtons\IBAArmor3.Png
+Item:Armor4                   :FileName:Images\Icons\ItemButtons\IBAArmor4.Png
+Item:Armor5                   :FileName:Images\Icons\ItemButtons\IBAArmor5.Png
+Item:Armor6                   :FileName:Images\Icons\ItemButtons\IBAArmor6.Png
+Item:Shield1                  :FileName:Images\Icons\ItemButtons\IBSShield1.Png
+Item:Shield2                  :FileName:Images\Icons\ItemButtons\IBSShield2.Png
+Item:Shield3                  :FileName:Images\Icons\ItemButtons\IBSShield3.Png
+Item:Shield4                  :FileName:Images\Icons\ItemButtons\IBSShield4.Png
+Item:Shield5                  :FileName:Images\Icons\ItemButtons\IBSShield5.Png
+Item:Helm1                    :FileName:Images\Icons\ItemButtons\IBHHelm1.Png
+Item:Helm2                    :FileName:Images\Icons\ItemButtons\IBHHelm2.Png
+Item:Boot1                    :FileName:Images\Icons\ItemButtons\IBBBoot1.Png
+Item:Boot2                    :FileName:Images\Icons\ItemButtons\IBBBoot2.Png
+Item:Boot3                    :FileName:Images\Icons\ItemButtons\IBBBoot3.Png
+Item:Decoration1              :FileName:Images\Icons\ItemButtons\IBDDecoration1.Png
+Item:Decoration2              :FileName:Images\Icons\ItemButtons\IBDDecoration2.Png
+Item:Decoration3              :FileName:Images\Icons\ItemButtons\IBDDecoration3.Png
+Item:Decoration4              :FileName:Images\Icons\ItemButtons\IBDDecoration4.Png
+Item:Decoration5              :FileName:Images\Icons\ItemButtons\IBDDecoration5.Png
+Item:Decoration6              :FileName:Images\Icons\ItemButtons\IBDDecoration6.Png
+Item:Decoration7              :FileName:Images\Icons\ItemButtons\IBDDecoration7.Png
+Item:Decoration8              :FileName:Images\Icons\ItemButtons\IBDDecoration8.Png
+Item:Decoration9              :FileName:Images\Icons\ItemButtons\IBDDecoration9.Png
+#
+Item:BansheeAdept             :FileName:Images\Icons\ItemButtons\IBBansheeAdept.Png
+Item:BansheeMaster            :FileName:Images\Icons\ItemButtons\IBBansheeMaster.Png
+Item:BookManual               :FileName:Images\Icons\ItemButtons\IBBookManual.Png
+Item:BookManual2              :FileName:Images\Icons\ItemButtons\IBBookManual2.Png
+Item:BookManual3              :FileName:Images\Icons\ItemButtons\IBBookManual3.Png
+Item:BookOfSummoning          :FileName:Images\Icons\ItemButtons\IBBookOfSummoning.Png
+Item:BookOfTheDead            :FileName:Images\Icons\ItemButtons\IBBookOfTheDead.Png
+Item:NecromancerAdept         :FileName:Images\Icons\ItemButtons\IBNecromancerAdept.Png
+Item:NecromancerMaster        :FileName:Images\Icons\ItemButtons\IBNecromancerMaster.Png
+Item:Orb                      :FileName:Images\Icons\ItemButtons\IBOrb.Png
+Item:OrbOfFire                :FileName:Images\Icons\ItemButtons\IBOrbOfFire.Png
+Item:OrbOfFrost               :FileName:Images\Icons\ItemButtons\IBOrbOfFrost.Png
+Item:OrbOfLightning           :FileName:Images\Icons\ItemButtons\IBOrbOfLightning.Png
+Item:PotionBlue               :FileName:Images\Icons\ItemButtons\IBPotionBlue.Png
+Item:PotionBlueBig            :FileName:Images\Icons\ItemButtons\IBPotionBlueBig.Png
+Item:PotionBlueSmall          :FileName:Images\Icons\ItemButtons\IBPotionBlueSmall.Png
+Item:PotionGreen              :FileName:Images\Icons\ItemButtons\IBPotionGreen.Png
+Item:PotionGreenSmall         :FileName:Images\Icons\ItemButtons\IBPotionGreenSmall.Png
+Item:PotionPurple             :FileName:Images\Icons\ItemButtons\IBPotionPurple.Png
+Item:PotionRed                :FileName:Images\Icons\ItemButtons\IBPotionRed.Png
+Item:Scroll                   :FileName:Images\Icons\ItemButtons\IBScroll.Png
+Item:ScrollOfHealing          :FileName:Images\Icons\ItemButtons\IBScrollOfHealing.Png
+Item:ScrollOfProtection       :FileName:Images\Icons\ItemButtons\IBScrollOfProtection.Png
+Item:ScrollOfTownPortal       :FileName:Images\Icons\ItemButtons\IBScrollOfTownPortal.Png
+Item:ScrollUber               :FileName:Images\Icons\ItemButtons\IBScrollUber.Png
+Item:SnazzyPotion             :FileName:Images\Icons\ItemButtons\IBSnazzyPotion.Png
+Item:SnazzyScroll             :FileName:Images\Icons\ItemButtons\IBSnazzyScroll.Png
+Item:SnazzyScrollGreen        :FileName:Images\Icons\ItemButtons\IBSnazzyScrollGreen.Png
+Item:SnazzyScrollPurple       :FileName:Images\Icons\ItemButtons\IBSnazzyScrollPurple.Png
+Item:SorceressAdept           :FileName:Images\Icons\ItemButtons\IBSorceressAdept.Png
+Item:SorceressMaster          :FileName:Images\Icons\ItemButtons\IBSorceressMaster.Png
+Item:SoulGem                  :FileName:Images\Icons\ItemButtons\IBSoulGem.Png
+Item:Tome                     :FileName:Images\Icons\ItemButtons\IBTome.Png
+Item:TomeBrown                :FileName:Images\Icons\ItemButtons\IBTomeBrown.Png
+Item:TomeRed                  :FileName:Images\Icons\ItemButtons\IBTomeRed.Png

@@ -1,0 +1,878 @@
+[Image info]
+166 -32 -30 96 72
+[Transparent color RGB]
+0 0 0
+[Unit have mask]
+[Unit mask]
+025 000 025
+058 000 058
+091 000 091
+124 000 124
+156 000 156
+189 000 189
+222 000 222
+255 000 255
+136 064 136
+072 028 080
+104 048 120
+000 000 000
+[Using List]
+Images\Units\Commander\H1\Knight000.Png
+Images\Units\Commander\H1\Knight001.Png
+Images\Units\Commander\H1\Knight002.Png
+Images\Units\Commander\H1\Knight003.Png
+Images\Units\Commander\H1\Knight004.Png
+Images\Units\Commander\H1\Knight005.Png
+Images\Units\Commander\H1\Knight006.Png
+Images\Units\Commander\H1\Knight007.Png
+Images\Units\Commander\H1\Knight008.Png
+Images\Units\Commander\H1\Knight009.Png
+Images\Units\Commander\H1\Knight010.Png
+Images\Units\Commander\H1\Knight011.Png
+Images\Units\Commander\H1\Knight012.Png
+Images\Units\Commander\H1\Knight013.Png
+Images\Units\Commander\H1\Knight014.Png
+Images\Units\Commander\H1\Knight015.Png
+Images\Units\Commander\H1\Knight016.Png
+Images\Units\Commander\H1\Knight017.Png
+Images\Units\Commander\H1\Knight018.Png
+Images\Units\Commander\H1\Knight019.Png
+Images\Units\Commander\H1\Knight020.Png
+Images\Units\Commander\H1\Knight021.Png
+Images\Units\Commander\H1\Knight022.Png
+Images\Units\Commander\H1\Knight023.Png
+Images\Units\Commander\H1\Knight024.Png
+Images\Units\Commander\H2\Knight000.Png
+Images\Units\Commander\H2\Knight001.Png
+Images\Units\Commander\H2\Knight002.Png
+Images\Units\Commander\H2\Knight003.Png
+Images\Units\Commander\H2\Knight004.Png
+Images\Units\Commander\H2\Knight005.Png
+Images\Units\Commander\H2\Knight006.Png
+Images\Units\Commander\H2\Knight007.Png
+Images\Units\Commander\H2\Knight008.Png
+Images\Units\Commander\H2\Knight009.Png
+Images\Units\Commander\H2\Knight010.Png
+Images\Units\Commander\H2\Knight011.Png
+Images\Units\Commander\H2\Knight012.Png
+Images\Units\Commander\H2\Knight013.Png
+Images\Units\Commander\H2\Knight014.Png
+Images\Units\Commander\H2\Knight015.Png
+Images\Units\Commander\H2\Knight016.Png
+Images\Units\Commander\H2\Knight017.Png
+Images\Units\Commander\H2\Knight018.Png
+Images\Units\Commander\H2\Knight019.Png
+Images\Units\Commander\H2\Knight020.Png
+Images\Units\Commander\H2\Knight021.Png
+Images\Units\Commander\H2\Knight022.Png
+Images\Units\Commander\H2\Knight023.Png
+Images\Units\Commander\H2\Knight024.Png
+Images\Units\Commander\H3\Knight000.Png
+Images\Units\Commander\H3\Knight001.Png
+Images\Units\Commander\H3\Knight002.Png
+Images\Units\Commander\H3\Knight003.Png
+Images\Units\Commander\H3\Knight004.Png
+Images\Units\Commander\H3\Knight005.Png
+Images\Units\Commander\H3\Knight006.Png
+Images\Units\Commander\H3\Knight007.Png
+Images\Units\Commander\H3\Knight008.Png
+Images\Units\Commander\H3\Knight009.Png
+Images\Units\Commander\H3\Knight010.Png
+Images\Units\Commander\H3\Knight011.Png
+Images\Units\Commander\H3\Knight012.Png
+Images\Units\Commander\H3\Knight013.Png
+Images\Units\Commander\H3\Knight014.Png
+Images\Units\Commander\H3\Knight015.Png
+Images\Units\Commander\H3\Knight016.Png
+Images\Units\Commander\H3\Knight017.Png
+Images\Units\Commander\H3\Knight018.Png
+Images\Units\Commander\H3\Knight019.Png
+Images\Units\Commander\H3\Knight020.Png
+Images\Units\Commander\H3\Knight021.Png
+Images\Units\Commander\H3\Knight022.Png
+Images\Units\Commander\H3\Knight023.Png
+Images\Units\Commander\H3\Knight024.Png
+Images\Units\Commander\H4\Knight000.Png
+Images\Units\Commander\H4\Knight001.Png
+Images\Units\Commander\H4\Knight002.Png
+Images\Units\Commander\H4\Knight003.Png
+Images\Units\Commander\H4\Knight004.Png
+Images\Units\Commander\H4\Knight005.Png
+Images\Units\Commander\H4\Knight006.Png
+Images\Units\Commander\H4\Knight007.Png
+Images\Units\Commander\H4\Knight008.Png
+Images\Units\Commander\H4\Knight009.Png
+Images\Units\Commander\H4\Knight010.Png
+Images\Units\Commander\H4\Knight011.Png
+Images\Units\Commander\H4\Knight012.Png
+Images\Units\Commander\H4\Knight013.Png
+Images\Units\Commander\H4\Knight014.Png
+Images\Units\Commander\H4\Knight015.Png
+Images\Units\Commander\H4\Knight016.Png
+Images\Units\Commander\H4\Knight017.Png
+Images\Units\Commander\H4\Knight018.Png
+Images\Units\Commander\H4\Knight019.Png
+Images\Units\Commander\H4\Knight020.Png
+Images\Units\Commander\H4\Knight021.Png
+Images\Units\Commander\H4\Knight022.Png
+Images\Units\Commander\H4\Knight023.Png
+Images\Units\Commander\H4\Knight024.Png
+Images\Units\Commander\H5\Knight000.Png
+Images\Units\Commander\H5\Knight001.Png
+Images\Units\Commander\H5\Knight002.Png
+Images\Units\Commander\H5\Knight003.Png
+Images\Units\Commander\H5\Knight004.Png
+Images\Units\Commander\H5\Knight005.Png
+Images\Units\Commander\H5\Knight006.Png
+Images\Units\Commander\H5\Knight007.Png
+Images\Units\Commander\H5\Knight008.Png
+Images\Units\Commander\H5\Knight009.Png
+Images\Units\Commander\H5\Knight010.Png
+Images\Units\Commander\H5\Knight011.Png
+Images\Units\Commander\H5\Knight012.Png
+Images\Units\Commander\H5\Knight013.Png
+Images\Units\Commander\H5\Knight014.Png
+Images\Units\Commander\H5\Knight015.Png
+Images\Units\Commander\H5\Knight016.Png
+Images\Units\Commander\H5\Knight017.Png
+Images\Units\Commander\H5\Knight018.Png
+Images\Units\Commander\H5\Knight019.Png
+Images\Units\Commander\H5\Knight020.Png
+Images\Units\Commander\H5\Knight021.Png
+Images\Units\Commander\H5\Knight022.Png
+Images\Units\Commander\H5\Knight023.Png
+Images\Units\Commander\H5\Knight024.Png
+Images\Units\Commander\Die\Knight000.Png
+Images\Units\Commander\Die\Knight001.Png
+Images\Units\Commander\Die\Knight002.Png
+Images\Units\Commander\Die\Knight003.Png
+Images\Units\Commander\Die\Knight004.Png
+Images\Units\Commander\Die\Knight005.Png
+Images\Units\Commander\Die\Knight006.Png
+Images\Units\Commander\Die\Knight007.Png
+Images\Units\Commander\Die\Knight008.Png
+Images\Units\Commander\Die\Knight009.Png
+Images\Units\Commander\Die\Knight010.Png
+Images\Units\Commander\Die\Knight011.Png
+Images\Units\Commander\Die\Knight012.Png
+Images\Units\Commander\Die\Knight013.Png
+Images\Units\Commander\Die\Knight014.Png
+Images\Units\Commander\Die\Knight015.Png
+Images\Units\Commander\Die\Knight016.Png
+Images\Units\Commander\Die\Knight017.Png
+Images\Units\Commander\Die\Knight018.Png
+Images\Units\Commander\Die\Knight019.Png
+Images\Units\Commander\Die\Knight020.Png
+Images\Units\Commander\Die\Knight021.Png
+Images\Units\Commander\Die\Knight022.Png
+Images\Units\Commander\Die\Knight023.Png
+Images\Units\Commander\Die\Knight024.Png
+Images\Units\Commander\Die\Knight025.Png
+Images\Units\Commander\Die\Knight026.Png
+Images\Units\Commander\Die\Knight027.Png
+Images\Units\Commander\Die\Knight028.Png
+Images\Units\Commander\Die\Knight029.Png
+Images\Units\Commander\Die\Knight030.Png
+Images\Units\Commander\Die\Knight031.Png
+Images\Units\Commander\Die\Knight032.Png
+Images\Units\Commander\Die\Knight033.Png
+Images\Units\Commander\Die\Knight034.Png
+Images\Units\Commander\Die\Knight035.Png
+Images\Units\Commander\Die\Knight036.Png
+Images\Units\Commander\Die\Knight037.Png
+Images\Units\Commander\Die\Knight038.Png
+Images\Units\Commander\Die\Knight039.Png
+Images\Units\Commander\Die\Knight040.Png
+[[Stand script]]
+[Heading 1]
+1
+0 20 0 0
+[Heading 2]
+1
+25 20 0 0
+[Heading 3]
+1
+50 20 0 0
+[Heading 4]
+1
+75 20 0 0
+[Heading 5]
+1
+100 20 0 0
+[Heading 6]
+1
+75 20 0 1
+[Heading 7]
+1
+50 20 0 1
+[Heading 8]
+1
+25 20 0 1
+[[Wasted script]]
+[Heading 1]
+1
+0 20 0 0
+[Heading 2]
+1
+25 20 0 0
+[Heading 3]
+1
+50 20 0 0
+[Heading 4]
+1
+75 20 0 0
+[Heading 5]
+1
+100 20 0 0
+[Heading 6]
+1
+75 20 0 1
+[Heading 7]
+1
+50 20 0 1
+[Heading 8]
+1
+25 20 0 1
+[[Run script]]
+[Heading 1]
+16
+00 1 02 0
+00 1 04 0
+01 1 06 0
+01 1 08 0
+02 1 10 0
+02 1 12 0
+03 1 14 0
+03 1 16 0
+04 1 18 0
+04 1 20 0
+05 1 22 0
+05 1 24 0
+06 1 26 0
+06 1 28 0
+07 1 30 0
+07 1 32 0
+[Heading 2]
+16
+25 1 02 0
+25 1 04 0
+26 1 06 0
+26 1 08 0
+27 1 10 0
+27 1 12 0
+28 1 14 0
+28 1 16 0
+29 1 18 0
+29 1 20 0
+30 1 22 0
+30 1 24 0
+31 1 26 0
+31 1 28 0
+32 1 30 0
+32 1 32 0
+[Heading 3]
+16
+50 1 02 0
+50 1 04 0
+51 1 06 0
+51 1 08 0
+52 1 10 0
+52 1 12 0
+53 1 14 0
+53 1 16 0
+54 1 18 0
+54 1 20 0
+55 1 22 0
+55 1 24 0
+56 1 26 0
+56 1 28 0
+57 1 30 0
+57 1 32 0
+[Heading 4]
+16
+75 1 02 0
+75 1 04 0
+76 1 06 0
+76 1 08 0
+77 1 10 0
+77 1 12 0
+78 1 14 0
+78 1 16 0
+79 1 18 0
+79 1 20 0
+80 1 22 0
+80 1 24 0
+81 1 26 0
+81 1 28 0
+82 1 30 0
+82 1 32 0
+[Heading 5]
+16
+100 1 02 0
+100 1 04 0
+101 1 06 0
+101 1 08 0
+102 1 10 0
+102 1 12 0
+103 1 14 0
+103 1 16 0
+104 1 18 0
+104 1 20 0
+105 1 22 0
+105 1 24 0
+106 1 26 0
+106 1 28 0
+107 1 30 0
+107 1 32 0
+[Heading 6]
+16
+75 1 02 1
+75 1 04 1
+76 1 06 1
+76 1 08 1
+77 1 10 1
+77 1 12 1
+78 1 14 1
+78 1 16 1
+79 1 18 1
+79 1 20 1
+80 1 22 1
+80 1 24 1
+81 1 26 1
+81 1 28 1
+82 1 30 1
+82 1 32 1
+[Heading 7]
+16
+50 1 02 1
+50 1 04 1
+51 1 06 1
+51 1 08 1
+52 1 10 1
+52 1 12 1
+53 1 14 1
+53 1 16 1
+54 1 18 1
+54 1 20 1
+55 1 22 1
+55 1 24 1
+56 1 26 1
+56 1 28 1
+57 1 30 1
+57 1 32 1
+[Heading 8]
+16
+25 1 02 1
+25 1 04 1
+26 1 06 1
+26 1 08 1
+27 1 10 1
+27 1 12 1
+28 1 14 1
+28 1 16 1
+29 1 18 1
+29 1 20 1
+30 1 22 1
+30 1 24 1
+31 1 26 1
+31 1 28 1
+32 1 30 1
+32 1 32 1
+[[Attack script]]
+[Heading 1]
+17
+008 1 0 0
+009 1 0 0
+010 1 0 0
+011 1 0 0
+012 1 0 0
+013 1 0 0
+014 1 0 0
+015 1 0 0
+016 1 0 0
+017 1 0 0
+018 1 0 0
+019 1 0 0
+020 1 0 0
+021 1 0 0
+022 1 0 0
+023 1 0 0
+024 1 0 2
+[Heading 2]
+17
+033 1 0 0
+034 1 0 0
+035 1 0 0
+036 1 0 0
+037 1 0 0
+038 1 0 0
+039 1 0 0
+040 1 0 0
+041 1 0 0
+042 1 0 0
+043 1 0 0
+044 1 0 0
+045 1 0 0
+046 1 0 0
+047 1 0 0
+048 1 0 0
+049 1 0 2
+[Heading 3]
+17
+058 1 0 0
+059 1 0 0
+060 1 0 0
+061 1 0 0
+062 1 0 0
+063 1 0 0
+064 1 0 0
+065 1 0 0
+066 1 0 0
+067 1 0 0
+068 1 0 0
+069 1 0 0
+070 1 0 0
+071 1 0 0
+072 1 0 0
+073 1 0 0
+074 1 0 2
+[Heading 4]
+17
+083 1 0 0
+084 1 0 0
+085 1 0 0
+086 1 0 0
+087 1 0 0
+088 1 0 0
+089 1 0 0
+090 1 0 0
+091 1 0 0
+092 1 0 0
+093 1 0 0
+094 1 0 0
+095 1 0 0
+096 1 0 0
+097 1 0 0
+098 1 0 0
+099 1 0 2
+[Heading 5]
+17
+108 1 0 0
+109 1 0 0
+110 1 0 0
+111 1 0 0
+112 1 0 0
+113 1 0 0
+114 1 0 0
+115 1 0 0
+116 1 0 0
+117 1 0 0
+118 1 0 0
+119 1 0 0
+120 1 0 0
+121 1 0 0
+122 1 0 0
+123 1 0 0
+124 1 0 2
+[Heading 6]
+17
+083 1 0 1
+084 1 0 1
+085 1 0 1
+086 1 0 1
+087 1 0 1
+088 1 0 1
+089 1 0 1
+090 1 0 1
+091 1 0 1
+092 1 0 1
+093 1 0 1
+094 1 0 1
+095 1 0 1
+096 1 0 1
+097 1 0 1
+098 1 0 1
+099 1 0 3
+[Heading 7]
+17
+058 1 0 1
+059 1 0 1
+060 1 0 1
+061 1 0 1
+062 1 0 1
+063 1 0 1
+064 1 0 1
+065 1 0 1
+066 1 0 1
+067 1 0 1
+068 1 0 1
+069 1 0 1
+070 1 0 1
+071 1 0 1
+072 1 0 1
+073 1 0 1
+074 1 0 3
+[Heading 8]
+17
+033 1 0 1
+034 1 0 1
+035 1 0 1
+036 1 0 1
+037 1 0 1
+038 1 0 1
+039 1 0 1
+040 1 0 1
+041 1 0 1
+042 1 0 1
+043 1 0 1
+044 1 0 1
+045 1 0 1
+046 1 0 1
+047 1 0 1
+048 1 0 1
+049 1 0 3
+[[Dead script]]
+[Heading 1]
+41
+125 3 0 0
+126 3 0 0
+127 3 0 0
+128 3 0 0
+129 3 0 0
+130 3 0 0
+131 3 0 0
+132 3 0 0
+133 3 0 0
+134 3 0 0
+135 3 0 0
+136 3 0 0
+137 3 0 0
+138 3 0 0
+139 3 0 0
+140 3 0 0
+141 3 0 0
+142 3 0 0
+143 3 0 0
+144 3 0 0
+145 3 0 0
+146 3 0 0
+147 3 0 0
+148 3 0 0
+149 3 0 0
+150 3 0 0
+151 3 0 0
+152 3 0 0
+153 3 0 0
+154 3 0 0
+155 3 0 0
+156 3 0 0
+157 3 0 0
+158 3 0 0
+159 3 0 0
+160 3 0 0
+161 3 0 0
+162 3 0 0
+163 3 0 0
+164 3 0 0
+165 300 0 0
+[Heading 2]
+41
+125 3 0 0
+126 3 0 0
+127 3 0 0
+128 3 0 0
+129 3 0 0
+130 3 0 0
+131 3 0 0
+132 3 0 0
+133 3 0 0
+134 3 0 0
+135 3 0 0
+136 3 0 0
+137 3 0 0
+138 3 0 0
+139 3 0 0
+140 3 0 0
+141 3 0 0
+142 3 0 0
+143 3 0 0
+144 3 0 0
+145 3 0 0
+146 3 0 0
+147 3 0 0
+148 3 0 0
+149 3 0 0
+150 3 0 0
+151 3 0 0
+152 3 0 0
+153 3 0 0
+154 3 0 0
+155 3 0 0
+156 3 0 0
+157 3 0 0
+158 3 0 0
+159 3 0 0
+160 3 0 0
+161 3 0 0
+162 3 0 0
+163 3 0 0
+164 3 0 0
+165 300 0 0
+[Heading 3]
+41
+125 3 0 0
+126 3 0 0
+127 3 0 0
+128 3 0 0
+129 3 0 0
+130 3 0 0
+131 3 0 0
+132 3 0 0
+133 3 0 0
+134 3 0 0
+135 3 0 0
+136 3 0 0
+137 3 0 0
+138 3 0 0
+139 3 0 0
+140 3 0 0
+141 3 0 0
+142 3 0 0
+143 3 0 0
+144 3 0 0
+145 3 0 0
+146 3 0 0
+147 3 0 0
+148 3 0 0
+149 3 0 0
+150 3 0 0
+151 3 0 0
+152 3 0 0
+153 3 0 0
+154 3 0 0
+155 3 0 0
+156 3 0 0
+157 3 0 0
+158 3 0 0
+159 3 0 0
+160 3 0 0
+161 3 0 0
+162 3 0 0
+163 3 0 0
+164 3 0 0
+165 300 0 0
+[Heading 4]
+41
+125 3 0 0
+126 3 0 0
+127 3 0 0
+128 3 0 0
+129 3 0 0
+130 3 0 0
+131 3 0 0
+132 3 0 0
+133 3 0 0
+134 3 0 0
+135 3 0 0
+136 3 0 0
+137 3 0 0
+138 3 0 0
+139 3 0 0
+140 3 0 0
+141 3 0 0
+142 3 0 0
+143 3 0 0
+144 3 0 0
+145 3 0 0
+146 3 0 0
+147 3 0 0
+148 3 0 0
+149 3 0 0
+150 3 0 0
+151 3 0 0
+152 3 0 0
+153 3 0 0
+154 3 0 0
+155 3 0 0
+156 3 0 0
+157 3 0 0
+158 3 0 0
+159 3 0 0
+160 3 0 0
+161 3 0 0
+162 3 0 0
+163 3 0 0
+164 3 0 0
+165 300 0 0
+[Heading 5]
+41
+125 3 0 0
+126 3 0 0
+127 3 0 0
+128 3 0 0
+129 3 0 0
+130 3 0 0
+131 3 0 0
+132 3 0 0
+133 3 0 0
+134 3 0 0
+135 3 0 0
+136 3 0 0
+137 3 0 0
+138 3 0 0
+139 3 0 0
+140 3 0 0
+141 3 0 0
+142 3 0 0
+143 3 0 0
+144 3 0 0
+145 3 0 0
+146 3 0 0
+147 3 0 0
+148 3 0 0
+149 3 0 0
+150 3 0 0
+151 3 0 0
+152 3 0 0
+153 3 0 0
+154 3 0 0
+155 3 0 0
+156 3 0 0
+157 3 0 0
+158 3 0 0
+159 3 0 0
+160 3 0 0
+161 3 0 0
+162 3 0 0
+163 3 0 0
+164 3 0 0
+165 300 0 0
+[Heading 6]
+41
+125 3 0 0
+126 3 0 0
+127 3 0 0
+128 3 0 0
+129 3 0 0
+130 3 0 0
+131 3 0 0
+132 3 0 0
+133 3 0 0
+134 3 0 0
+135 3 0 0
+136 3 0 0
+137 3 0 0
+138 3 0 0
+139 3 0 0
+140 3 0 0
+141 3 0 0
+142 3 0 0
+143 3 0 0
+144 3 0 0
+145 3 0 0
+146 3 0 0
+147 3 0 0
+148 3 0 0
+149 3 0 0
+150 3 0 0
+151 3 0 0
+152 3 0 0
+153 3 0 0
+154 3 0 0
+155 3 0 0
+156 3 0 0
+157 3 0 0
+158 3 0 0
+159 3 0 0
+160 3 0 0
+161 3 0 0
+162 3 0 0
+163 3 0 0
+164 3 0 0
+165 300 0 0
+[Heading 7]
+41
+125 3 0 0
+126 3 0 0
+127 3 0 0
+128 3 0 0
+129 3 0 0
+130 3 0 0
+131 3 0 0
+132 3 0 0
+133 3 0 0
+134 3 0 0
+135 3 0 0
+136 3 0 0
+137 3 0 0
+138 3 0 0
+139 3 0 0
+140 3 0 0
+141 3 0 0
+142 3 0 0
+143 3 0 0
+144 3 0 0
+145 3 0 0
+146 3 0 0
+147 3 0 0
+148 3 0 0
+149 3 0 0
+150 3 0 0
+151 3 0 0
+152 3 0 0
+153 3 0 0
+154 3 0 0
+155 3 0 0
+156 3 0 0
+157 3 0 0
+158 3 0 0
+159 3 0 0
+160 3 0 0
+161 3 0 0
+162 3 0 0
+163 3 0 0
+164 3 0 0
+165 300 0 0
+[Heading 8]
+41
+125 3 0 0
+126 3 0 0
+127 3 0 0
+128 3 0 0
+129 3 0 0
+130 3 0 0
+131 3 0 0
+132 3 0 0
+133 3 0 0
+134 3 0 0
+135 3 0 0
+136 3 0 0
+137 3 0 0
+138 3 0 0
+139 3 0 0
+140 3 0 0
+141 3 0 0
+142 3 0 0
+143 3 0 0
+144 3 0 0
+145 3 0 0
+146 3 0 0
+147 3 0 0
+148 3 0 0
+149 3 0 0
+150 3 0 0
+151 3 0 0
+152 3 0 0
+153 3 0 0
+154 3 0 0
+155 3 0 0
+156 3 0 0
+157 3 0 0
+158 3 0 0
+159 3 0 0
+160 3 0 0
+161 3 0 0
+162 3 0 0
+163 3 0 0
+164 3 0 0
+165 300 0 0
